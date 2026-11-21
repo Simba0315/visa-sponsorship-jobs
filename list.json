@@ -1,0 +1,33 @@
+{
+ "title": "Jobs with Visa Sponsorship (updated daily)",
+ "intro": "Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.",
+ "feed": "https://jobseveryhour.com/api/v1/lists/visa-sponsorship.json",
+ "page": "https://jobseveryhour.com/perks/visa-sponsorship/",
+ "more": [
+  [
+   "All jobs with visa sponsorship",
+   "https://jobseveryhour.com/perks/visa-sponsorship/"
+  ],
+  [
+   "Relocation guides by country",
+   "https://jobseveryhour.com/relocate/"
+  ],
+  [
+   "Remote jobs",
+   "https://jobseveryhour.com/remote/"
+  ],
+  [
+   "Free resume builder",
+   "https://jobseveryhour.com/resume/"
+  ],
+  [
+   "Tech internships",
+   "https://github.com/Simba0315/tech-internships-2027"
+  ],
+  [
+   "Remote entry-level jobs",
+   "https://github.com/Simba0315/remote-entry-level-jobs"
+  ]
+ ],
+ "repo": "Simba0315/visa-sponsorship-jobs"
+}
