@@ -2,7 +2,7 @@
 
 Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.
 
-**7,097 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**7,163 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/perks/visa-sponsorship/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -12,6 +12,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | --- | --- | --- | --- | --- |
 | **Clera** | [Forward Deployed Engineer](https://jobseveryhour.com/job/forward-deployed-engineer-clera-8/) | San Francisco | $150K - $250K | 2026-11-22 |
 | **Clera** | [Founding Engineer, Recommendation Systems](https://jobseveryhour.com/job/founding-engineer-recommendation-systems-clera/) | San Francisco | $130K - $170K | 2026-11-22 |
+| **Exa** | [Social Media Strategist](https://jobseveryhour.com/job/social-media-strategist-exa/) | San Francisco, California | $150K - $200K | 2026-11-21 |
 | **Clera** | [Founders Associate Intern](https://jobseveryhour.com/job/founders-associate-intern-clera-5/) | San Francisco | $80K - $110K | 2026-11-21 |
 | **Clera** | [Software Engineer, Voice AI / Backend](https://jobseveryhour.com/job/software-engineer-voice-ai-backend-clera-3/) | Berlin | €85K - €160K | 2026-11-21 |
 | **Clera** | [Lead AI Engineer](https://jobseveryhour.com/job/lead-ai-engineer-clera-2/) | Düsseldorf | €100K - €115K | 2026-11-21 |
@@ -89,6 +90,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Clera** | [Product Engineer](https://jobseveryhour.com/job/product-engineer-clera-15/) | San Francisco | $120K - $200K | 2026-11-20 |
 | **Anthropic** | [Research Engineer, Beneficial Deployments](https://jobseveryhour.com/job/research-engineer-beneficial-deployments-anthropic/) | San Francisco, CA | $500K - $850K | 2026-11-20 |
 | **n8n** | [Mid-Market Sales Manager US](https://jobseveryhour.com/job/mid-market-sales-manager-us-n8n/) | Boston, Massachusetts, United States · Remote | — | 2026-11-20 |
+| **ALLY Psychiatry Career Page** | [Medical Director Psychiatrist Job Opportunity – Nashville Area, TN / Inpatient Psychiatry Leadership / Visa Sponsorship](https://jobseveryhour.com/job/medical-director-psychiatrist-job-opportunity-nashville-area-ally-psychiatry-career-page/) | Columbia, TN, USA | $360K - $385K | 2026-11-18 |
 | **American Institutes for Research** | [Principal Researcher, CTE and Career Pathways](https://jobseveryhour.com/job/principal-researcher-cte-and-career-pathways-american-institutes-for-research/) | US-Remote / US-VA-Arlington / US-NC-Chapel Hill / US-IL-Chicago / US-CA-Sacramento / US-TX-Austin | $150K - $170K | 2026-11-20 |
 | **American Institutes for Research** | [Quantitative Researcher, Secondary and Postsecondary Pathways](https://jobseveryhour.com/job/quantitative-researcher-secondary-and-postsecondary-pathways-american-institutes-for-research/) | US-Remote | $87K - $110K | 2026-11-20 |
 | **Anthropic** | [Strategic Account Executive, Hedge Funds](https://jobseveryhour.com/job/strategic-account-executive-hedge-funds-anthropic/) | New York City, NY | $380K - $450K | 2026-11-20 |
@@ -110,6 +112,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Catawiki** | [Platform Engineer](https://jobseveryhour.com/job/platform-engineer-catawiki-2/) | Amsterdam, Netherlands | — | 2026-11-20 |
 | **Catawiki** | [Frontend Engineer](https://jobseveryhour.com/job/frontend-engineer-catawiki-2/) | Lisbon, Portugal | — | 2026-11-20 |
 | **Catawiki** | [Engineering Manager - CS Tech](https://jobseveryhour.com/job/engineering-manager-cs-tech-catawiki-2/) | Lisbon, Portugal | — | 2026-11-20 |
+| **Utah State University** | [Professional Practice Assistant Professor - Nursing](https://jobseveryhour.com/job/professional-practice-assistant-professor-nursing-utah-state-university/) | Blanding, UT, US | — | 2026-11-20 |
 | **Catawiki** | [Backend Engineer](https://jobseveryhour.com/job/backend-engineer-catawiki-2/) | Lisbon, Portugal | — | 2026-11-19 |
 | **Clera** | [Senior Software Engineer, Model Evaluation](https://jobseveryhour.com/job/senior-software-engineer-model-evaluation-clera-2/) | remote | $180K - $250K | 2026-11-20 |
 | **Anthropic** | [Engineering Manager, Privacy Infrastructure](https://jobseveryhour.com/job/p-engineering-manager-privacy-infrastructure-anthropic/) | San Francisco, CA / New York City, NY | $405K - $485K | 2026-11-19 |
@@ -281,6 +284,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **ICF** | [OCIO Analyst](https://jobseveryhour.com/job/ocio-analyst-icf/) | Bethesda, MD | $61K - $104K | 2026-11-20 |
 | **ICF** | [Associate Account Specialist, San Diego Regional Energy Network, Home Energy Advisor](https://jobseveryhour.com/job/associate-account-specialist-san-diego-regional-energy-netwo-icf/) | San Diego, CA | $61K - $104K | 2026-11-20 |
 | **ICF** | [Associate Account Specialist - Home Energy Advisor (Field-Based)](https://jobseveryhour.com/job/associate-account-specialist-home-energy-advisor-field-based-icf/) | San Diego, CA | $61K - $104K | 2026-11-20 |
+| **ICF** | [Data Scientist](https://jobseveryhour.com/job/data-scientist-icf-3/) | Bethesda, MD | $131K - $223K | 2026-11-20 |
 | **Anthropic** | [Finance Systems Production Support Lead](https://jobseveryhour.com/job/finance-systems-production-support-lead-anthropic/) | San Francisco, CA / Seattle, WA | $270K - $315K | 2026-11-19 |
 | **Parallel** | [Member of Technical Staff, Developer Experience](https://jobseveryhour.com/job/member-of-technical-staff-developer-experience-parallel/) | San Francisco or Palo Alto | $150K - $300K | 2026-11-19 |
 | **Nylas** | [Sr. Product Designer](https://jobseveryhour.com/job/sr-product-designer-nylas/) | Remote - Toronto, Ontario | CA$115K - CA$160K | 2026-11-19 |
@@ -306,10 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Archer** | [Supply Chain Planner](https://jobseveryhour.com/job/supply-chain-planner-archer/) | San Jose, California, United States | $130K - $160K | 2026-11-19 |
 | **Docker** | [Renewals Manager](https://jobseveryhour.com/job/sr-renewals-manager-docker/) | England · Remote | €85K - €122K | 2026-11-19 |
 | **Enovate Consulting** | [IT Systems Administrator](https://jobseveryhour.com/job/it-systems-administrator-enovate-consulting/) | Berkeley Heights, NJ, USA | $73K - $90K | 2026-11-19 |
-| **Anteris Technologies** | [Senior Clinical Research Associate - Medical Devices](https://jobseveryhour.com/job/senior-clinical-research-associate-medical-devices-anteris-technologies/) | Remote - US | $120K - $145K | 2026-11-19 |
-| **Anthropic** | [Head of Community Relations, Compute](https://jobseveryhour.com/job/head-of-community-relations-compute-anthropic/) | San Francisco, CA / New York City, NY | — | 2026-11-19 |
-| **Clera** | [Research Engineer, Privacy and Anonymization](https://jobseveryhour.com/job/research-engineer-privacy-and-anonymization-clera-3/) | San Francisco | $130K - $225K | 2026-11-19 |
-| **Clera** | [Talent AI Operator](https://jobseveryhour.com/job/talent-ai-operator-clera-2/) | San Francisco | — | 2026-11-19 |
 
 ## More
 
