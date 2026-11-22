@@ -2,7 +2,7 @@
 
 Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.
 
-**7,031 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**7,097 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/perks/visa-sponsorship/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,9 +10,22 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Clera** | [Forward Deployed Engineer](https://jobseveryhour.com/job/forward-deployed-engineer-clera-8/) | San Francisco | $150K - $250K | 2026-11-22 |
+| **Clera** | [Founding Engineer, Recommendation Systems](https://jobseveryhour.com/job/founding-engineer-recommendation-systems-clera/) | San Francisco | $130K - $170K | 2026-11-22 |
+| **Clera** | [Founders Associate Intern](https://jobseveryhour.com/job/founders-associate-intern-clera-5/) | San Francisco | $80K - $110K | 2026-11-21 |
+| **Clera** | [Software Engineer, Voice AI / Backend](https://jobseveryhour.com/job/software-engineer-voice-ai-backend-clera-3/) | Berlin | €85K - €160K | 2026-11-21 |
+| **Clera** | [Lead AI Engineer](https://jobseveryhour.com/job/lead-ai-engineer-clera-2/) | Düsseldorf | €100K - €115K | 2026-11-21 |
+| **Clera** | [Founding Product Designer](https://jobseveryhour.com/job/founding-product-designer-clera-2/) | San Francisco | $150K - $250K | 2026-11-21 |
+| **Clera** | [Operations Lead](https://jobseveryhour.com/job/operations-lead-clera-2/) | New York · Remote | $180K - $220K | 2026-11-21 |
+| **Clera** | [Account Executive](https://jobseveryhour.com/job/account-executive-clera-9/) | remote | $100K - $180K | 2026-11-21 |
+| **Clera** | [Operations Associate](https://jobseveryhour.com/job/operations-associate-clera-2/) | Salt Lake City · Remote | $55K - $65K | 2026-11-21 |
+| **Clera** | [Senior Aerothermal Engineer, Vehicle](https://jobseveryhour.com/job/senior-aerothermal-engineer-vehicle-clera/) | Los Angeles · Remote | $170K - $220K | 2026-11-21 |
 | **Anthropic** | [Research Engineer, Finetuning](https://jobseveryhour.com/job/research-engineer-finetuning-anthropic/) | San Francisco, CA / New York City, NY / Seattle, WA | $500K - $850K | 2026-11-21 |
 | **Anthropic** | [Manager, Applied AI Architect](https://jobseveryhour.com/job/manager-applied-ai-architect-anthropic-3/) | Seoul, South Korea | — | 2026-11-21 |
+| **Callosum** | [General Capabilities - Member of Technical Staff](https://jobseveryhour.com/job/general-capabilities-member-of-technical-staff-callosum/) | London | — | 2026-11-21 |
+| **Verkada** | [Reliability Engineering and Quality Manager](https://jobseveryhour.com/job/reliability-engineering-and-quality-manager-verkada/) | San Mateo, CA United States | $170K - $215K | 2026-11-21 |
 | **Anthropic** | [Research Operations, External Artifacts](https://jobseveryhour.com/job/research-operations-external-artifacts-anthropic/) | Remote-Friendly, United States | $210K - $260K | 2026-11-20 |
+| **Verkada** | [Senior Embedded Engineer - Intercom](https://jobseveryhour.com/job/senior-embedded-engineer-intercom-verkada/) | San Mateo, CA United States | $200K - $300K | 2026-11-20 |
 | **The Care** | [Full Time Registered Nurse (RN)](https://jobseveryhour.com/job/full-time-registered-nurse-rn-the-care/) | Qualicum Beach, BC, Canada | — |  |
 | **Justlife** | [Telesales Executive - Outbound](https://jobseveryhour.com/job/telesales-executive-outbound-justlife/) | Dubai, United Arab Emirates | — |  |
 | **Whatfix** | [Enterprise Account Manager - San Jose](https://jobseveryhour.com/job/enterprise-account-manager-san-jose-whatfix/) | 2033 Gateway Place, Suite 120, San Jose, CA | — |  |
@@ -41,6 +54,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Nutrition Kitchen** | [E-Commerce Operations Associate (Graduate)](https://jobseveryhour.com/job/e-commerce-operations-associate-graduate-nutrition-kitchen/) | Hong Kong | — |  |
 | **Nutrition Kitchen** | [Growth Analyst](https://jobseveryhour.com/job/growth-analyst-nutrition-kitchen/) | Hong Kong | — |  |
 | **Nutrition Kitchen** | [Growth Associate](https://jobseveryhour.com/job/growth-associate-nutrition-kitchen/) | Hong Kong | — |  |
+| **Merck (MSD)** | [Product Line Tech Lead, Veeva Events](https://jobseveryhour.com/job/product-line-tech-lead-veeva-events-merck-msd/) | CZE - Central Bohemian - Prague (Five) | — | 2026-11-21 |
 | **Clera** | [Technical Program Manager](https://jobseveryhour.com/job/technical-program-manager-clera-3/) | United States | $130K - $225K | 2026-11-20 |
 | **GiveWell** | [Manager, IT and Technology Operations](https://jobseveryhour.com/job/manager-it-and-technology-operations-givewell/) | United States (Remote) | — | 2026-11-20 |
 | **Gray Swan AI** | [Strategic Partnership Manager - Frontier Labs](https://jobseveryhour.com/job/strategic-partnership-manager-frontier-labs-gray-swan-ai/) | Remote U.S. or Pittsburgh, PA | $185K - $270K | 2026-11-20 |
@@ -104,6 +118,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Clera** | [Senior Associate, Growth AI](https://jobseveryhour.com/job/senior-associate-growth-ai-clera/) | San Francisco | $150K - $175K | 2026-11-20 |
 | **Invenergy Services** | [Field Service Technician – 100% Travel (Rotational Position 4 weeks traveling, 1 week off)](https://jobseveryhour.com/job/field-service-technician-invenergy-services/) | Home Office (TX); Milan, MI; Fayetteville, AR | — | 2026-11-20 |
 | **Invenergy Services** | [Wind Technician](https://jobseveryhour.com/job/wind-technician-invenergy-services-8/) | Gary, SD; Watertown, SD; Elkton, SD | — | 2026-11-20 |
+| **ICF** | [Senior Manager, Aircraft Finance & Technical Consultant - Remote US](https://jobseveryhour.com/job/senior-manager-aviation-technical-consultant-remote-us-icf/) | Reston, VA | $140K - $180K | 2026-11-20 |
+| **ICF** | [Director, Energy Markets/Senior Director, Energy Markets](https://jobseveryhour.com/job/director-senior-director-power-markets-icf/) | Reston, VA; Denver, CO; Chicago, IL | $175K - $297K | 2026-11-20 |
+| **ICF** | [Energy Analyst (Interconnection & Transmission) - US Remote](https://jobseveryhour.com/job/energy-consultant-for-interconnection-icf/) | Reston, VA; Philadelphia, PA; New York, NY | $74K - $126K | 2026-11-20 |
 | **Buck Institute** | [Postdoctoral Researcher-Schilling lab](https://jobseveryhour.com/job/postdoctoral-researcher-schilling-lab-buck-institute/) | NOVATO, CA | — |  |
 | **Buck Institute** | [AI Data Scientist-Furman lab](https://jobseveryhour.com/job/ai-data-scientist-furman-lab-buck-institute/) | Novato, CA | $60K - $75K |  |
 | **Buck Institute** | [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://jobseveryhour.com/job/bioinformatics-data-scientist-or-postdoctoral-researcher-fur-buck-institute/) | Novato, CA | $80K - $85K |  |
@@ -238,6 +255,32 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Alaska Communications Systems** | [Technology Solutions Advisor (TSA) / Senior Technology Solutions Advisor (SRTSA)](https://jobseveryhour.com/job/technology-solutions-advisor-tsa-senior-technology-solutions-alaska-communications-systems/) | Anchorage, Alaska; Remote - Washington | $83K - $109K | 2026-11-20 |
 | **Animal Trust** | [Lead Veterinary Surgeon](https://jobseveryhour.com/job/lead-veterinary-surgeon-animal-trust-4/) | Warrington, Cheshire, United Kingdom | £77K | 2026-11-20 |
 | **Animal Trust** | [Night Veterinary Surgeon](https://jobseveryhour.com/job/night-veterinary-surgeon-animal-trust-6/) | Warrington, Cheshire, United Kingdom | £93K | 2026-11-20 |
+| **Merck (MSD)** | [Operations Technician](https://jobseveryhour.com/job/operations-technician-merck-msd/) | USA - Delaware - Millsboro (Intervet) | $49K - $77K | 2026-11-20 |
+| **Merck (MSD)** | [CSRM Physician - Senior Principal Scientist, Drug Safety](https://jobseveryhour.com/job/csrm-physician-senior-principal-scientist-drug-safety-merck-msd/) | USA - New Jersey - Rahway; USA - Pennsylvania - Upper Gwynedd · Remote | $282K - $444K | 2026-11-20 |
+| **Merck (MSD)** | [Central Services Manager](https://jobseveryhour.com/job/central-services-manager-merck-msd/) | USA - Kansas - De Soto | $96K - $151K | 2026-11-20 |
+| **Merck (MSD)** | [Distinguished Scientist (Executive Director), Clinical Research, Bladder Cancer](https://jobseveryhour.com/job/distinguished-scientist-executive-director-clinical-research-merck-msd/) | USA - New Jersey - Rahway | $311K - $489K | 2026-11-20 |
+| **Merck (MSD)** | [Senior Director, Clinical Development Metabolism (MASH)](https://jobseveryhour.com/job/senior-director-clinical-development-metabolism-mash-merck-msd/) | USA - New Jersey - Rahway; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - United States - United States | $282K - $444K | 2026-11-20 |
+| **Merck (MSD)** | [Specialist, Manufacturing Automation](https://jobseveryhour.com/job/specialist-manufacturing-automation-merck-msd-2/) | USA - Pennsylvania - West Point | $87K - $137K | 2026-11-20 |
+| **Merck (MSD)** | [Assoc. Dir , Information Architecture](https://jobseveryhour.com/job/assoc-dir-information-architecture-merck-msd/) | USA - Pennsylvania - West Point; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - New Jersey - Rahway | $142K - $224K | 2026-11-20 |
+| **Merck (MSD)** | [Director Global Oncology Marketing - Breast cancers](https://jobseveryhour.com/job/director-global-oncology-marketing-breast-cancers-merck-msd/) | USA - New Jersey - Rahway; USA - Pennsylvania - North Wales (Upper Gwynedd) | $191K - $300K | 2026-11-20 |
+| **Merck (MSD)** | [Vaccine Customer Representative - Boise, ID](https://jobseveryhour.com/job/vaccine-customer-representative-boise-id-merck-msd/) | USA - Idaho - Boise · Remote | $79K - $125K | 2026-11-20 |
+| **Merck (MSD)** | [Associate Director, Patient Access](https://jobseveryhour.com/job/associate-director-patient-access-merck-msd/) | USA - Pennsylvania - North Wales (Upper Gwynedd) | $142K - $224K | 2026-11-20 |
+| **Merck (MSD)** | [Director Global Market Access](https://jobseveryhour.com/job/director-global-market-access-merck-msd/) | USA - New Jersey - Rahway; USA - Pennsylvania - North Wales (Upper Gwynedd); IRL - Ireland - Ireland | $191K - $300K | 2026-11-20 |
+| **Merck (MSD)** | [Associate Director, Strategic Forecasting](https://jobseveryhour.com/job/associate-director-strategic-forecasting-merck-msd/) | USA - New Jersey - Rahway; USA - Pennsylvania - North Wales (Upper Gwynedd) | $157K - $247K | 2026-11-20 |
+| **Merck (MSD)** | [Operations Specialist](https://jobseveryhour.com/job/operations-specialist-merck-msd/) | USA - Kansas - De Soto | $79K - $125K | 2026-11-20 |
+| **Merck (MSD)** | [Senior Scientist, Discovery Analytical Research (on-site)](https://jobseveryhour.com/job/senior-scientist-discovery-analytical-research-on-site-merck-msd/) | USA - California - South San Francisco (Grand Ave) | $131K - $207K | 2026-11-20 |
+| **Merck (MSD)** | [Senior Specialist Engineering](https://jobseveryhour.com/job/senior-specialist-engineering-merck-msd/) | USA - North Carolina - Durham (Old Oxford) | $117K - $184K | 2026-11-20 |
+| **Merck (MSD)** | [Sr. Principal Scientist (Sr. Director) - Regulatory Liaison](https://jobseveryhour.com/job/sr-principal-scientist-sr-director-regulatory-liaison-merck-msd/) | USA - New Jersey - Rahway; USA - Maryland - Rockville; USA - Massachusetts - Boston (MA Parcel B Laboratory) | $191K - $300K | 2026-11-20 |
+| **Merck (MSD)** | [Director of Payments - Rahway, NJ](https://jobseveryhour.com/job/director-of-payments-rahway-nj-merck-msd/) | USA - New Jersey - Rahway | $96K - $151K | 2026-11-20 |
+| **Merck (MSD)** | [2027 Future Talent Program - Data, AI, and Genome Sciences, Precision Genetics - Co-op](https://jobseveryhour.com/job/2027-future-talent-program-data-ai-and-genome-sciences-preci-merck-msd/) | USA - California - South San Francisco (Grand Ave) | $40K - $111K | 2026-11-20 |
+| **ICF** | [Energy Markets Consultant/Senior Energy Markets Consultant - US Remote](https://jobseveryhour.com/job/energy-markets-consultant-senior-energy-markets-consultant-u-icf/) | Washington, DC; Denver, CO; Boston, MA | $74K - $152K | 2026-11-20 |
+| **ICF** | [Manager/Senior Manager, Energy Markets - US Remote](https://jobseveryhour.com/job/manager-senior-manager-energy-markets-us-remote-icf/) | Washington, DC; Denver, CO; Boston, MA | $119K - $245K | 2026-11-20 |
+| **ICF** | [Project Manager](https://jobseveryhour.com/job/project-manager-icf/) | Bethesda, MD | $108K - $184K | 2026-11-20 |
+| **ICF** | [Senior Environmental Planner](https://jobseveryhour.com/job/senior-environmental-planner-icf-4/) | Sacramento, CA | $81K - $138K | 2026-11-20 |
+| **ICF** | [Senior Enterprise Architect - Onsite Required](https://jobseveryhour.com/job/senior-enterprise-architect-onsite-required-icf/) | Bethesda, MD | $119K - $203K | 2026-11-20 |
+| **ICF** | [OCIO Analyst](https://jobseveryhour.com/job/ocio-analyst-icf/) | Bethesda, MD | $61K - $104K | 2026-11-20 |
+| **ICF** | [Associate Account Specialist, San Diego Regional Energy Network, Home Energy Advisor](https://jobseveryhour.com/job/associate-account-specialist-san-diego-regional-energy-netwo-icf/) | San Diego, CA | $61K - $104K | 2026-11-20 |
+| **ICF** | [Associate Account Specialist - Home Energy Advisor (Field-Based)](https://jobseveryhour.com/job/associate-account-specialist-home-energy-advisor-field-based-icf/) | San Diego, CA | $61K - $104K | 2026-11-20 |
 | **Anthropic** | [Finance Systems Production Support Lead](https://jobseveryhour.com/job/finance-systems-production-support-lead-anthropic/) | San Francisco, CA / Seattle, WA | $270K - $315K | 2026-11-19 |
 | **Parallel** | [Member of Technical Staff, Developer Experience](https://jobseveryhour.com/job/member-of-technical-staff-developer-experience-parallel/) | San Francisco or Palo Alto | $150K - $300K | 2026-11-19 |
 | **Nylas** | [Sr. Product Designer](https://jobseveryhour.com/job/sr-product-designer-nylas/) | Remote - Toronto, Ontario | CA$115K - CA$160K | 2026-11-19 |
@@ -267,49 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Anthropic** | [Head of Community Relations, Compute](https://jobseveryhour.com/job/head-of-community-relations-compute-anthropic/) | San Francisco, CA / New York City, NY | — | 2026-11-19 |
 | **Clera** | [Research Engineer, Privacy and Anonymization](https://jobseveryhour.com/job/research-engineer-privacy-and-anonymization-clera-3/) | San Francisco | $130K - $225K | 2026-11-19 |
 | **Clera** | [Talent AI Operator](https://jobseveryhour.com/job/talent-ai-operator-clera-2/) | San Francisco | — | 2026-11-19 |
-| **Clera** | [Senior Android Software Engineer](https://jobseveryhour.com/job/senior-android-software-engineer-clera-3/) | San Francisco | $160K - $200K | 2026-11-19 |
-| **Anthropic** | [Strategic Account Executive, Tech](https://jobseveryhour.com/job/strategic-account-executive-tech-anthropic-3/) | San Francisco, CA | $380K - $450K | 2026-11-19 |
-| **Clera** | [Founder Associate](https://jobseveryhour.com/job/founder-associate-clera-3/) | San Francisco | $90K - $120K | 2026-11-19 |
-| **Clera** | [Technical Writer](https://jobseveryhour.com/job/technical-writer-clera-2/) | San Francisco | $100K - $165K | 2026-11-19 |
-| **Clera** | [Lead Research Engineer, Data Quality](https://jobseveryhour.com/job/lead-research-engineer-data-quality-clera-2/) | United States | $130K - $225K | 2026-11-19 |
-| **Clera** | [Full-Stack Software Engineer, Design](https://jobseveryhour.com/job/full-stack-software-engineer-design-clera-2/) | San Francisco | $130K - $225K | 2026-11-19 |
-| **Clera** | [Marketing & Events Lead](https://jobseveryhour.com/job/marketing-events-lead-clera-2/) | San Francisco | $130K - $225K | 2026-11-19 |
-| **The Wright Center Medical** | [Physician, Internal Medicine Inpatient Teaching](https://jobseveryhour.com/job/physician-internal-medicine-inpatient-teaching-the-wright-center-medical/) | Wilkes-Barre, PA, USA | — | 2026-11-19 |
-| **Clera** | [Product Marketing Manager](https://jobseveryhour.com/job/product-marketing-manager-clera-2/) | remote | $135K - $165K | 2026-11-19 |
-| **n8n** | [Head of Global Enterprise Renewals (EMEA - Remote)](https://jobseveryhour.com/job/head-of-global-enterprise-renewals-remote-n8n/) | Berlin, Germany | — | 2026-11-19 |
-| **Clera** | [Founding Engineer](https://jobseveryhour.com/job/founding-engineer-clera-25/) | San Francisco | $150K - $250K | 2026-11-19 |
-| **n8n** | [Senior/Staff Product Designer](https://jobseveryhour.com/job/senior-staff-product-designer-n8n/) | Germany · Remote | — | 2026-11-19 |
-| **Cresco Labs** | [Packaging Agent](https://jobseveryhour.com/job/packaging-agent-cresco-labs-2/) | Uxbridge, MA | — | 2026-11-19 |
-| **Parallel** | [Member of Technical Staff, Enterprise Security](https://jobseveryhour.com/job/member-of-technical-staff-enterprise-security-parallel/) | San Francisco or Palo Alto | $150K - $300K | 2026-11-19 |
-| **Anthropic** | [AWS Partnerships Lead](https://jobseveryhour.com/job/aws-partnerships-lead-anthropic/) | London, UK | £215K - £250K | 2026-11-19 |
-| **PitchBook Data** | [Account Manager](https://jobseveryhour.com/job/account-manager-pitchbook-data/) | New York, New York, United States | $116K - $116K | 2026-11-19 |
-| **Anthropic** | [Community Engagement Manager, Data Centres (Canada)](https://jobseveryhour.com/job/community-engagement-manager-data-centres-canada-anthropic/) | Alberta, CAN / Remote-Friendly, Canada | — | 2026-11-19 |
-| **Clera** | [Senior Software Engineer](https://jobseveryhour.com/job/senior-software-engineer-clera-2/) | San Francisco | $225K - $330K | 2026-11-19 |
-| **Checkatrade** | [MLOps Engineer](https://jobseveryhour.com/job/mlops-engineer-checkatrade/) | Moorgate London | — | 2026-11-19 |
-| **Wayve** | [People Partner, Germany](https://jobseveryhour.com/job/people-partner-germany-wayve/) | Leonberg, Germany | — | 2026-11-19 |
-| **Verkada** | [Enterprise Account Executive, Public Sector South - UK](https://jobseveryhour.com/job/enterprise-account-executive-public-sector-south-uk-verkada/) | London | — | 2026-11-19 |
-| **n8n** | [Senior Product Manager - Core Experience](https://jobseveryhour.com/job/senior-product-manager-core-experience-n8n/) | Berlin, Germany | €90K - €152K | 2026-11-19 |
-| **n8n** | [Customer Success Manager - Guided - West Coast](https://jobseveryhour.com/job/customer-success-manager-guided-west-coast-n8n/) | Washington, United States · Remote | $106K - $149K | 2026-11-19 |
-| **Anthropic** | [Sales Director](https://jobseveryhour.com/job/sales-director-anthropic/) | Seoul, South Korea | — | 2026-11-19 |
-| **GreenSky Administrative Services** | [Mortgage Loan Originator](https://jobseveryhour.com/job/mortgage-loan-originator-greensky-administrative-services/) | Atlanta, GA, US | — | 2026-11-19 |
-| **Makermaker.ai** | [Research Intern](https://jobseveryhour.com/job/research-intern-makermaker-ai/) | San Francisco | — | 2026-11-19 |
-| **AXIS International Academy** | [Elementary French Immersion Teacher: Candidate Pool](https://jobseveryhour.com/job/elementary-french-immersion-teacher-candidate-pool-axis-international-academy/) | Fort Collins, CO, USA | $30K - $50K | 2026-11-19 |
-| **AXIS International Academy** | [Elementary Mandarin Immersion Teacher: Candidate Pool](https://jobseveryhour.com/job/elementary-mandarin-immersion-teacher-candidate-pool-axis-international-academy/) | Fort Collins, CO, USA | $30K - $50K | 2026-11-19 |
-| **Parallel** | [Data Partnerships Finance Lead](https://jobseveryhour.com/job/data-partnerships-finance-lead-parallel/) | San Francisco or Palo Alto | $300K - $400K | 2026-11-19 |
-| **GDIT** | [Data Analyst, Senior (Medicaid/Medicare)](https://jobseveryhour.com/job/data-analyst-senior-medicaid-medicare-gdit/) | Any Location / Remote | $94K - $126K | 2026-11-19 |
-| **Boeing Subsidiaries** | [Supplier Quality Specialist (Supplier Quality Systems)](https://jobseveryhour.com/job/supplier-quality-specialist-supplier-quality-systems-boeing-subsidiaries/) | CHE - Emmen, Switzerland | — | 2026-11-19 |
-| **GE Vernova** | [Graduate Electrical Engineer](https://jobseveryhour.com/job/graduate-electrical-engineer-ge-vernova/) | Singapore | — | 2026-11-19 |
-| **Alliant Energy** | [Combination Mechanic Journey or Apprentice](https://jobseveryhour.com/job/combination-mechanic-journey-or-apprentice-alliant-energy/) | Fairfield, IA | — | 2026-11-19 |
-| **Alliant Energy** | [Line Mechanic Journey or Apprentice](https://jobseveryhour.com/job/line-mechanic-journey-or-apprentice-alliant-energy/) | Clinton, IA | — | 2026-11-19 |
-| **Alliant Energy** | [Line Mechanic Journey or Apprentice](https://jobseveryhour.com/job/line-mechanic-journey-or-apprentice-alliant-energy-2/) | DeWitt, IA | — | 2026-11-19 |
-| **Alliant Energy** | [Lead Engineer - Generation (Turbines)](https://jobseveryhour.com/job/lead-engineer-generation-turbines-alliant-energy/) | Cedar Rapids, IA; Marshalltown, IA; Burlington, IA | $116K - $161K | 2026-11-19 |
-| **Alliant Energy** | [Senior Engineer Generation - Boiler](https://jobseveryhour.com/job/senior-engineer-generation-boiler-alliant-energy/) | Madison, WI; Marshalltown, IA; Burlington, IA | $106K - $186K | 2026-11-19 |
-| **Alliant Energy** | [Key Account Manager II](https://jobseveryhour.com/job/key-account-manager-ii-alliant-energy/) | Mason City, IA | $85K - $95K | 2026-11-19 |
-| **Alliant Energy** | [Senior Generation Engineer (Plant Engineer - Mechanical)](https://jobseveryhour.com/job/senior-generation-engineer-plant-engineer-mechanical-alliant-energy/) | Pardeeville, WI | $106K - $186K | 2026-11-19 |
-| **Alliant Energy** | [Cash Processing Coordinator I](https://jobseveryhour.com/job/cash-processing-coordinator-i-alliant-energy/) | Cedar Rapids, IA | — | 2026-11-19 |
-| **Alliant Energy** | [Senior Environmental Specialist (Stack Testing Coordinator)](https://jobseveryhour.com/job/senior-environmental-specialist-stack-testing-coordinator-alliant-energy/) | Madison, WI; Cedar Rapids, IA | $105K - $125K | 2026-11-19 |
-| **Alliant Energy** | [Lead Project Manager - Construction](https://jobseveryhour.com/job/lead-project-manager-construction-alliant-energy/) | Madison, WI | $145K - $160K | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Senior Enterprise Operations Administrator](https://jobseveryhour.com/job/senior-enterprise-operations-administrator-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
 
 ## More
 
