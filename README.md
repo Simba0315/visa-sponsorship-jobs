@@ -2,7 +2,7 @@
 
 Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.
 
-**6,906 open right now · updated 2026-11-21.** The list below shows the 300 newest. Jobs come from
+**7,031 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/perks/visa-sponsorship/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -24,6 +24,23 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Hello Innovation** | [Director of IT (Information Technology)](https://jobseveryhour.com/job/director-of-it-information-technology-hello-innovation/) | Detroit, MI | — |  |
 | **Merck (MSD)** | [Associate Specialist, Manufacturing Automation](https://jobseveryhour.com/job/associate-specialist-manufacturing-automation-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-21 |
 | **Merck (MSD)** | [Specialist , Manufacturing Automation](https://jobseveryhour.com/job/specialist-manufacturing-automation-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-21 |
+| **FST Technical Services** | [Construction Coordinator](https://jobseveryhour.com/job/construction-coordinator-fst-technical-services/) | Rio Rancho, NM | — |  |
+| **FST Technical Services** | [Commissioning Project Engineer](https://jobseveryhour.com/job/commissioning-project-engineer-fst-technical-services-4/) | Hartford, CT | $90K - $120K |  |
+| **FST Technical Services** | [Commissioning Project Engineer - Data Center](https://jobseveryhour.com/job/commissioning-project-engineer-data-center-fst-technical-services/) | Atlanta, GA | $100K - $130K |  |
+| **FST Technical Services** | [Commissioning Project Engineer - Data Center](https://jobseveryhour.com/job/commissioning-project-engineer-data-center-fst-technical-services-2/) | Atlanta, GA | $100K - $130K |  |
+| **FST Technical Services** | [Senior Commissioning Engineer](https://jobseveryhour.com/job/senior-commissioning-engineer-fst-technical-services/) | New York City, NY | $120K - $140K |  |
+| **FST Technical Services** | [Senior Commissioning Engineer](https://jobseveryhour.com/job/senior-commissioning-engineer-fst-technical-services-3/) | Arlington, VA | $120K - $140K |  |
+| **FST Technical Services** | [Senior Controls Engineer](https://jobseveryhour.com/job/senior-controls-engineer-fst-technical-services/) | Ann Arbor, MI | $120K - $150K |  |
+| **FST Technical Services** | [Senior Project Engineer](https://jobseveryhour.com/job/senior-project-engineer-fst-technical-services/) | New York City, NY | $110K - $140K |  |
+| **FST Technical Services** | [Tridium Niagara Building Automation Specialist](https://jobseveryhour.com/job/tridium-niagara-building-automation-specialist-fst-technical-services/) | Ann Arbor, MI | $100K - $140K |  |
+| **FST Technical Services** | [Mechanical Technician](https://jobseveryhour.com/job/mechanical-technician-fst-technical-services/) | Santa Clara, CA | — |  |
+| **FST Technical Services** | [Mechanical Technician - night shift](https://jobseveryhour.com/job/mechanical-technician-night-shift-fst-technical-services/) | Santa Clara, CA | — |  |
+| **FST Technical Services** | [NCCO Trainer](https://jobseveryhour.com/job/ncco-trainer-fst-technical-services/) | Hillsboro, OR | — |  |
+| **Nutrition Kitchen** | [Data Analyst](https://jobseveryhour.com/job/data-analyst-nutrition-kitchen/) | Hong Kong | — |  |
+| **Nutrition Kitchen** | [Digital Marketing Analyst](https://jobseveryhour.com/job/digital-marketing-analyst-nutrition-kitchen/) | Hong Kong | — |  |
+| **Nutrition Kitchen** | [E-Commerce Operations Associate (Graduate)](https://jobseveryhour.com/job/e-commerce-operations-associate-graduate-nutrition-kitchen/) | Hong Kong | — |  |
+| **Nutrition Kitchen** | [Growth Analyst](https://jobseveryhour.com/job/growth-analyst-nutrition-kitchen/) | Hong Kong | — |  |
+| **Nutrition Kitchen** | [Growth Associate](https://jobseveryhour.com/job/growth-associate-nutrition-kitchen/) | Hong Kong | — |  |
 | **Clera** | [Technical Program Manager](https://jobseveryhour.com/job/technical-program-manager-clera-3/) | United States | $130K - $225K | 2026-11-20 |
 | **GiveWell** | [Manager, IT and Technology Operations](https://jobseveryhour.com/job/manager-it-and-technology-operations-givewell/) | United States (Remote) | — | 2026-11-20 |
 | **Gray Swan AI** | [Strategic Partnership Manager - Frontier Labs](https://jobseveryhour.com/job/strategic-partnership-manager-frontier-labs-gray-swan-ai/) | Remote U.S. or Pittsburgh, PA | $185K - $270K | 2026-11-20 |
@@ -218,6 +235,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Pima County** | [Trades Maintenance Specialist I - Building Maintenance - Corrections](https://jobseveryhour.com/job/trades-maintenance-specialist-i-building-maintenance-correct-pima-county/) | Tucson, AZ | — | 2026-11-20 |
 | **Pima County** | [Trades Maintenance Specialist I - Building Maintenance - Outlying](https://jobseveryhour.com/job/trades-maintenance-specialist-i-building-maintenance-outlyin-pima-county/) | Tucson, AZ | — | 2026-11-20 |
 | **Pima County** | [Trades Maintenance Specialist I - Landscaping](https://jobseveryhour.com/job/trades-maintenance-specialist-i-landscaping-pima-county/) | Tucson, AZ | — | 2026-11-20 |
+| **Alaska Communications Systems** | [Technology Solutions Advisor (TSA) / Senior Technology Solutions Advisor (SRTSA)](https://jobseveryhour.com/job/technology-solutions-advisor-tsa-senior-technology-solutions-alaska-communications-systems/) | Anchorage, Alaska; Remote - Washington | $83K - $109K | 2026-11-20 |
+| **Animal Trust** | [Lead Veterinary Surgeon](https://jobseveryhour.com/job/lead-veterinary-surgeon-animal-trust-4/) | Warrington, Cheshire, United Kingdom | £77K | 2026-11-20 |
+| **Animal Trust** | [Night Veterinary Surgeon](https://jobseveryhour.com/job/night-veterinary-surgeon-animal-trust-6/) | Warrington, Cheshire, United Kingdom | £93K | 2026-11-20 |
 | **Anthropic** | [Finance Systems Production Support Lead](https://jobseveryhour.com/job/finance-systems-production-support-lead-anthropic/) | San Francisco, CA / Seattle, WA | $270K - $315K | 2026-11-19 |
 | **Parallel** | [Member of Technical Staff, Developer Experience](https://jobseveryhour.com/job/member-of-technical-staff-developer-experience-parallel/) | San Francisco or Palo Alto | $150K - $300K | 2026-11-19 |
 | **Nylas** | [Sr. Product Designer](https://jobseveryhour.com/job/sr-product-designer-nylas/) | Remote - Toronto, Ontario | CA$115K - CA$160K | 2026-11-19 |
@@ -290,30 +310,10 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Alliant Energy** | [Senior Environmental Specialist (Stack Testing Coordinator)](https://jobseveryhour.com/job/senior-environmental-specialist-stack-testing-coordinator-alliant-energy/) | Madison, WI; Cedar Rapids, IA | $105K - $125K | 2026-11-19 |
 | **Alliant Energy** | [Lead Project Manager - Construction](https://jobseveryhour.com/job/lead-project-manager-construction-alliant-energy/) | Madison, WI | $145K - $160K | 2026-11-19 |
 | **University of Arkansas for Medical Sciences** | [Senior Enterprise Operations Administrator](https://jobseveryhour.com/job/senior-enterprise-operations-administrator-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [RN - GI Clinic](https://jobseveryhour.com/job/rn-gi-clinic-university-of-arkansas-for-medical-sciences-2/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [RN Perinatal Mother/Baby](https://jobseveryhour.com/job/rn-perinatal-mother-baby-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [RN - IMSL GI Clinic](https://jobseveryhour.com/job/rn-imsl-gi-clinic-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Medical Assistant - IMSL GI Clinic](https://jobseveryhour.com/job/medical-assistant-imsl-gi-clinic-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Senior Clinical Application Analyst](https://jobseveryhour.com/job/senior-clinical-application-analyst-university-of-arkansas-for-medical-sciences-2/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [LPN - GI Clinic](https://jobseveryhour.com/job/lpn-gi-clinic-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Medical Assistant - Internal Medicine Clinic](https://jobseveryhour.com/job/medical-assistant-internal-medicine-clinic-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Diagnostic Radiology Technologist - Bentonville Clinic](https://jobseveryhour.com/job/diagnostic-radiology-technologist-bentonville-clinic-university-of-arkansas-for-medical-sciences/) | UAMS - NWA; Bentonville | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [APRN - Certified Nurse - Midwife](https://jobseveryhour.com/job/aprn-certified-nurse-midwife-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-19 |
-| **University of Arkansas for Medical Sciences** | [Senior Clinical Therapist - BHSL Northwest Arkansas Clinic](https://jobseveryhour.com/job/senior-clinical-therapist-bhsl-northwest-arkansas-clinic-university-of-arkansas-for-medical-sciences/) | Fayetteville, AR | — | 2026-11-19 |
-| **Arondite** | [Frontend Software Engineer](https://jobseveryhour.com/job/frontend-software-engineer-arondite/) | London, England, United Kingdom | — | 2026-11-19 |
-| **AIR Control Concepts** | [Commercial HVAC Service Technician](https://jobseveryhour.com/job/commercial-hvac-service-technician-air-control-concepts/) | Nashville, TN | — |  |
-| **AIR Control Concepts** | [Commercial HVAC Service Technician](https://jobseveryhour.com/job/commercial-hvac-service-technician-air-control-concepts-17/) | norfolk, VA | — |  |
-| **AIR Control Concepts** | [Commercial HVAC Service Technician](https://jobseveryhour.com/job/commercial-hvac-service-technician-air-control-concepts-20/) | Minneapolis, MN | — |  |
-| **AIR Control Concepts** | [Controls Technician](https://jobseveryhour.com/job/controls-technician-air-control-concepts/) | Norfolk, VA | — |  |
-| **AIR Control Concepts** | [Controls Technician](https://jobseveryhour.com/job/controls-technician-air-control-concepts-2/) | Nashville, TN | — |  |
-| **AIR Control Concepts** | [Controls Technician](https://jobseveryhour.com/job/controls-technician-air-control-concepts-3/) | Richmond, VA | — |  |
-| **HungryPanda** | [Business development specialist - Mandrain Speaking](https://jobseveryhour.com/job/business-development-specialist-mandrain-speaking-hungrypanda/) | Auckland, New Zealand | — | 2026-11-19 |
-| **Cardiovascular Associates of America** | [Electrophysiologist](https://jobseveryhour.com/job/electrophysiologist-cardiovascular-associates-of-america-4/) | Gainesville, FL | — | 2026-11-19 |
-| **Centene** | [Data and Analytics Summer 2027 Intern (Undergraduate)](https://jobseveryhour.com/job/data-and-analytics-summer-2027-intern-undergraduate-centene/) | Remote-MO | — | 2026-11-19 |
 
 ## More
 
-[All jobs with visa sponsorship](https://jobseveryhour.com/perks/visa-sponsorship/) · [Relocation guides by country](https://jobseveryhour.com/relocate/) · [Remote jobs](https://jobseveryhour.com/remote/) · [Free resume builder](https://jobseveryhour.com/resume/) · [Tech internships](https://github.com/Simba0315/tech-internships-2027) · [Remote entry-level jobs](https://github.com/Simba0315/remote-entry-level-jobs)
+[All jobs with visa sponsorship](https://jobseveryhour.com/perks/visa-sponsorship/) · [Relocation guides by country](https://jobseveryhour.com/relocate/) · [Remote jobs](https://jobseveryhour.com/remote/) · [Free resume builder](https://jobseveryhour.com/resume/) · [Tech internships](https://github.com/Simba0315/tech-internships-2027) · [Remote entry-level jobs](https://github.com/Simba0315/remote-entry-level-jobs) · [Entry-level jobs and internships](https://jobseveryhour.com/entry-level/) · [Jobs with the salary listed](https://jobseveryhour.com/with-salary/)
 
 The same list as JSON: https://jobseveryhour.com/api/v1/lists/visa-sponsorship.json (free, no key; please link back to [Jobs Every Hour](https://jobseveryhour.com/)).
 This list only links to jobs; applications go to each employer.
