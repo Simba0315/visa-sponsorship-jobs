@@ -2,7 +2,7 @@
 
 Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.
 
-**7,542 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
+**7,576 open right now · updated 2026-11-25.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/perks/visa-sponsorship/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,20 +10,38 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Sumo Logic** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-sumo-logic/) | Remote USA | $213K - $250K | 2026-11-24 |
+| **Anthropic** | [Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance](https://jobseveryhour.com/job/safeguards-enforcement-analyst-targeting-tracking-surveillan-anthropic/) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC | $245K - $285K | 2026-11-24 |
+| **Docker** | [Senior Principal Forward Deployed Engineer](https://jobseveryhour.com/job/senior-principal-forward-deployed-engineer-docker/) | United States · Remote | $219K - $352K | 2026-11-25 |
+| **Sumo Logic** | [Principal Product Marketing Manager](https://jobseveryhour.com/job/principal-product-marketing-manager-sumo-logic/) | Remote US | $198K - $232K | 2026-11-24 |
+| **Recidiviz** | [Manager, Executive Operations](https://jobseveryhour.com/job/manager-executive-operations-recidiviz/) | New York, New York, United States, Oakland, California, United States, Remote | — | 2026-11-24 |
+| **Anthropic** | [Manager, Compliance & Regulatory Operations](https://jobseveryhour.com/job/manager-compliance-regulatory-operations-anthropic/) | San Francisco, CA / New York City, NY / Washington, DC | $270K - $345K | 2026-11-24 |
+| **Anthropic** | [Engineering Manager, Cybersecurity Products](https://jobseveryhour.com/job/engineering-manager-cybersecurity-products-anthropic/) | San Francisco, CA / New York City, NY | — | 2026-11-24 |
+| **Monday.com** | [Manager, Partner Deployment Strategy](https://jobseveryhour.com/job/manager-partner-deployment-strategy-monday-com-2/) | Atlanta | $148K - $185K | 2026-11-24 |
+| **Monday.com** | [Manager, Partner Deployment Strategy](https://jobseveryhour.com/job/manager-partner-deployment-strategy-monday-com/) | Denver | $148K - $185K | 2026-11-24 |
+| **Monday.com** | [Manager, Partner Deployment Strategy](https://jobseveryhour.com/job/manager-partner-deployment-strategy-monday-com-3/) | New York | $164K - $205K | 2026-11-24 |
 | **DensityAI** | [Member of Technical Staff, Software](https://jobseveryhour.com/job/member-of-technical-staff-software-densityai/) | Mountain View, CA | $250K - $320K | 2026-11-24 |
 | **Sumo Logic** | [Principal Product Manager](https://jobseveryhour.com/job/principal-product-manager-sumo-logic-3/) | United States | $185K - $217K | 2026-11-24 |
 | **ABACUS** | [Manager, HR Business Partner](https://jobseveryhour.com/job/manager-hr-business-partner-abacus/) | Atlanta, Georgia, United States | — | 2026-11-24 |
+| **The Alexander** | [Manager](https://jobseveryhour.com/job/manager-the-alexander/) | Atlanta, GA, USA | $200K - $220K | 2026-11-24 |
+| **The Alexander** | [Manager](https://jobseveryhour.com/job/manager-the-alexander-2/) | Chicago, IL, USA | $200K - $220K | 2026-11-24 |
+| **The Alexander** | [Manager](https://jobseveryhour.com/job/manager-the-alexander-3/) | New York, NY, USA | $200K - $220K | 2026-11-24 |
+| **The Alexander** | [Manager](https://jobseveryhour.com/job/manager-the-alexander-4/) | San Francisco, CA, USA | $200K - $220K | 2026-11-24 |
+| **The Alexander** | [Associate Commercial Data Science Intern](https://jobseveryhour.com/job/associate-commercial-data-science-intern-the-alexander/) | New York, NY, USA | $30 an hour | 2026-11-24 |
 | **Reframesystems** | [Full Stack Software Engineer - Platform Software](https://jobseveryhour.com/job/full-stack-software-engineer-platform-software-reframesystems-2/) | Billerica, MA | $140K - $180K | 2026-11-24 |
 | **Reframesystems** | [Staff Software Engineer, Pixels to Parts](https://jobseveryhour.com/job/staff-software-engineer-pixels-to-parts-reframesystems-2/) | Boston | $160K - $210K | 2026-11-24 |
 | **n8n** | [Team Lead of FDE - US](https://jobseveryhour.com/job/team-lead-of-fde-us-n8n/) | Massachusetts, United States · Remote | — | 2026-11-24 |
 | **Wayve** | [Process Excellence Manager](https://jobseveryhour.com/job/process-excellence-manager-wayve/) | London, United Kingdom | — | 2026-11-24 |
+| **Philadelphia Phillies - Baseball Operations** | [Minor League Athletic Trainer (AAA Assistant)](https://jobseveryhour.com/job/minor-league-athletic-trainer-aaa-assistant-philadelphia-phillies-baseball-operations/) | Clearwater, FL | — | 2026-11-24 |
 | **n8n** | [Enterprise Account Executive South (Remote South)](https://jobseveryhour.com/job/enterprise-account-executive-south-remote-south-n8n/) | Spain · Remote | — | 2026-11-24 |
 | **n8n** | [Enterprise Account Executive Benelux (Remote Benelux)](https://jobseveryhour.com/job/enterprise-account-executive-benelux-remote-benelux-n8n/) | Netherlands · Remote | — | 2026-11-24 |
 | **Anthropic** | [Applied AI Architect, Industries](https://jobseveryhour.com/job/applied-ai-architect-industries-anthropic-5/) | Zürich, CH | — | 2026-11-24 |
 | **Anthropic** | [Life Sciences Operator, External Research](https://jobseveryhour.com/job/life-sciences-operator-external-research-anthropic/) | San Francisco, CA | $320K - $405K | 2026-11-24 |
 | **Anthropic** | [Head of Laboratory Facilities](https://jobseveryhour.com/job/head-of-laboratory-facilities-anthropic/) | San Francisco, CA | $310K - $365K | 2026-11-24 |
+| **Cuspai** | [Talent Acquisition Operations Specialist](https://jobseveryhour.com/job/talent-acquisition-operations-specialist-cuspai/) | Amsterdam, NL | — | 2026-11-24 |
 | **Minerva** | [Senior Data Platform Engineer](https://jobseveryhour.com/job/senior-data-platform-engineer-minerva/) | New York City | $211K - $236K | 2026-11-24 |
 | **Minerva** | [Data Platform Engineer, Observability](https://jobseveryhour.com/job/data-platform-engineer-observability-minerva/) | New York City | $170K - $236K | 2026-11-24 |
+| **Graham Packaging** | [Electrical Engineering Intern](https://jobseveryhour.com/job/electrical-engineering-intern-graham-packaging/) | UNAVAILABLE | — | 2026-11-24 |
 | **Clera** | [Enterprise Account Executive](https://jobseveryhour.com/job/enterprise-account-executive-clera/) | New York · Remote | $150K - $300K | 2026-11-24 |
 | **Docker** | [Business Development Representative (EMEA)](https://jobseveryhour.com/job/business-development-representative-emea-docker/) | England · Remote | €58K - €83K | 2026-11-24 |
 | **Sumo Logic** | [Named Accounts Account Executive](https://jobseveryhour.com/job/named-accounts-account-executive-sumo-logic/) | Raleigh, North Carolina | $141K - $160K | 2026-11-23 |
@@ -32,15 +50,55 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Wayve** | [Robotaxi Technical Operations Manager](https://jobseveryhour.com/job/robotaxi-technical-operations-manager-wayve/) | London, United Kingdom | — | 2026-11-24 |
 | **Wayve** | [Robotaxi Technical Operations Manager](https://jobseveryhour.com/job/robotaxi-technical-operations-manager-wayve-2/) | Sunnyvale, California USA | $180K - $220K | 2026-11-24 |
 | **Parallel** | [GTM, AI-Native](https://jobseveryhour.com/job/gtm-ai-native-parallel/) | San Francisco or Palo Alto | $100K - $150K | 2026-11-24 |
+| **Centene** | [Provider Performance Specialist II](https://jobseveryhour.com/job/provider-performance-specialist-ii-centene/) | Rego Park - New York City Regional Office-95-25 Queens Blvd(10815); Remote-NY | $56K - $101K | 2026-11-24 |
 | **Jets.com** | [Financial Controller](https://jobseveryhour.com/job/financial-controller-jets-com/) | Staten Island, NY | — |  |
 | **University of Arkansas for Medical Sciences** | [RN - Main OR](https://jobseveryhour.com/job/rn-main-or-university-of-arkansas-for-medical-sciences-3/) | Little Rock | — | 2026-11-24 |
 | **University of Arkansas for Medical Sciences** | [Physician Assistant](https://jobseveryhour.com/job/physician-assistant-university-of-arkansas-for-medical-sciences/) | Benton | — | 2026-11-24 |
 | **Justlife** | [Field Sales Executive – Speciality Services](https://jobseveryhour.com/job/field-sales-executive-speciality-services-justlife/) | Dubai, United Arab Emirates | — | 2026-11-24 |
 | **AIR Control Concepts** | [Traveling Chiller Technician](https://jobseveryhour.com/job/traveling-chiller-technician-air-control-concepts-4/) | (Multiple states) | $40 - $60 an hour | 2026-11-24 |
+| **Insteel Industries** | [Industrial Maintenance Associate](https://jobseveryhour.com/job/industrial-maintenance-associate-insteel-industries/) | Hickman, KY | $22 - $28 an hour | 2026-11-24 |
+| **Insteel Industries** | [Recruiter](https://jobseveryhour.com/job/recruiter-insteel-industries/) | Corporate, NC | — | 2026-11-24 |
+| **EARTHBRAIN** | [Construction Technology Implementation - Hybrid - South Plainfield, NJ](https://jobseveryhour.com/job/construction-technology-implementation-hybrid-south-plainfie-earthbrain-2/) | South Plainfield, NJ | $80K - $110K | 2026-11-24 |
+| **EARTHBRAIN** | [Construction Technology Sales - Hybrid - South Plainfield, NJ](https://jobseveryhour.com/job/construction-technology-sales-hybrid-south-plainfield-nj-earthbrain-2/) | South Plainfield, NJ | $80K - $110K | 2026-11-24 |
+| **Levi Strauss & Co.** | [Principal Industrial Engineer](https://jobseveryhour.com/job/principal-industrial-engineer-levi-strauss-co/) | Sky Harbor Distribution Center, Henderson, NV, USA | $120K - $148K | 2026-11-24 |
+| **Centene** | [Business Analyst II Excel, SQL](https://jobseveryhour.com/job/business-analyst-ii-excel-sql-centene/) | Remote-FL; Remote-MO; Remote-NC | $56K - $101K | 2026-11-24 |
+| **Centene** | [Digital Design Operations Intern (Master's - Summer 2027)](https://jobseveryhour.com/job/digital-design-operations-intern-master-s-summer-2027-centene/) | Remote-MO | — | 2026-11-24 |
+| **Centene** | [Business Analyst I Excel](https://jobseveryhour.com/job/business-analyst-i-excel-centene/) | Remote-FL; Remote-MO; Remote-NC | — | 2026-11-24 |
+| **Centene** | [LTSS Service Care Coordinator](https://jobseveryhour.com/job/ltss-service-care-coordinator-centene-32/) | Remote-IL | — | 2026-11-24 |
+| **Centene** | [Business Technical Analyst Availity](https://jobseveryhour.com/job/business-technical-analyst-availity-centene/) | Remote-MO; Remote-TN; Remote-KS | $70K - $126K | 2026-11-24 |
+| **Centene** | [Senior Care Navigator](https://jobseveryhour.com/job/senior-care-navigator-centene-2/) | Remote-IL | — | 2026-11-24 |
+| **Centene** | [Incident Response Analyst I](https://jobseveryhour.com/job/incident-response-analyst-i-centene/) | Remote-MO | — | 2026-11-24 |
+| **Centene** | [Director, Sales (Specialty Pharmacy)](https://jobseveryhour.com/job/director-sales-specialty-pharmacy-centene/) | Remote-NY; Remote-CT; Remote-NJ | $108K - $199K | 2026-11-24 |
+| **Centene** | [Operational Risk Analyst](https://jobseveryhour.com/job/operational-risk-analyst-centene/) | Remote-MO | — | 2026-11-24 |
+| **Centene** | [Health Plan Operations Undergraduate Summer Intern](https://jobseveryhour.com/job/health-plan-operations-undergraduate-summer-intern-centene/) | Remote-IA | — | 2026-11-24 |
+| **Centene** | [Quality Improvement Analyst HEDIS & Provider Performance](https://jobseveryhour.com/job/quality-improvement-analyst-hedis-provider-performance-centene/) | Remote-MO | $56K - $101K | 2026-11-24 |
+| **Centene** | [Business Solutions Developer II](https://jobseveryhour.com/job/business-solutions-developer-ii-centene/) | Remote-MO; Remote-FL; Remote-NC | $70K - $126K | 2026-11-24 |
+| **Centene** | [Senior Contact Center Systems Analyst](https://jobseveryhour.com/job/senior-contact-center-systems-analyst-centene/) | Remote-FL | $75K - $135K | 2026-11-24 |
+| **Centene** | [Project Manager I](https://jobseveryhour.com/job/project-manager-i-centene-3/) | Remote-FL; Remote-GA; Remote-MO | $56K - $101K | 2026-11-24 |
+| **Centene** | [Operator I, Global Security Operations Center](https://jobseveryhour.com/job/operator-i-global-security-operations-center-centene/) | Clayton - 7711 Carondelet Ave (Corporate) (10040) | — | 2026-11-24 |
+| **Flex (Flextronics)** | [Business Systems Analyst](https://jobseveryhour.com/job/business-systems-analyst-flex-flextronics-3/) | USA, SC, Orangeburg | — | 2026-11-24 |
+| **Flex (Flextronics)** | [Spring Coiling, Engineering Technician-2](https://jobseveryhour.com/job/spring-coiling-engineering-technician-2-flex-flextronics/) | USA, IL, Libertyville | — | 2026-11-24 |
+| **Flex (Flextronics)** | [EH&S Technician](https://jobseveryhour.com/job/eh-s-technician-flex-flextronics-3/) | USA, TX, Austin | — | 2026-11-24 |
+| **Flex (Flextronics)** | [Machine Operator](https://jobseveryhour.com/job/machine-operator-flex-flextronics/) | USA, TX, Austin | — | 2026-11-24 |
+| **Flex (Flextronics)** | [Equipment Automation Technician - night shift](https://jobseveryhour.com/job/equipment-automation-technician-night-shift-flex-flextronics-4/) | USA, TX, Austin | — | 2026-11-24 |
+| **Flex (Flextronics)** | [Controller](https://jobseveryhour.com/job/controller-flex-flextronics/) | USA, CA, Milpitas | — | 2026-11-24 |
+| **ICF** | [Head Start Senior Project Analyst - On-Site/DCRemote](https://jobseveryhour.com/job/head-start-senior-project-analyst-on-site-dcremote-icf/) | Washington, DC | $74K - $125K | 2026-11-24 |
+| **ICF** | [2027 Summer Intern, Program Operations (MD; VA)](https://jobseveryhour.com/job/2027-summer-intern-program-operations-md-va-icf/) | Reston, VA (VA30); Virginia Remote Office (VA99); Columbia, MD (MD12) | $38K - $64K | 2026-11-24 |
+| **ICF** | [Account Manager - Public Sector / East San Diego, California](https://jobseveryhour.com/job/account-manager-public-sector-east-san-diego-california-icf-2/) | San Diego, CA | $74K - $125K | 2026-11-24 |
+| **ICF** | [Salesforce Developer - Remote](https://jobseveryhour.com/job/salesforce-developer-remote-icf-2/) | Reston, VA | $81K - $139K | 2026-11-24 |
+| **ICF** | [AI/ML Developer](https://jobseveryhour.com/job/ai-ml-developer-icf/) | Reston, VA | $99K - $168K | 2026-11-24 |
+| **ICF** | [Software Engineer (Java, SQL Server) - (Remote US)](https://jobseveryhour.com/job/software-engineer-java-sql-server-remote-us-icf/) | Reston, VA | $81K - $139K | 2026-11-24 |
+| **ICF** | [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://jobseveryhour.com/job/economics-specialist-entry-level-hybrid-summer-2027-icf/) | Reston, VA; Waltham, MA (MA12) | $61K - $104K | 2026-11-24 |
+| **ICF** | [Marketing Manager](https://jobseveryhour.com/job/marketing-manager-icf-2/) | Atlanta, GA | $90K - $152K | 2026-11-24 |
+| **ICF** | [Cyber Security Engineer, Software Solutions](https://jobseveryhour.com/job/cyber-security-engineer-software-solutions-icf/) | Washington, DC | $98K - $167K | 2026-11-24 |
+| **Alaska Communications Systems** | [Field Technician - Cut Writer](https://jobseveryhour.com/job/field-technician-cut-writer-alaska-communications-systems/) | Anchorage, Alaska | — | 2026-11-24 |
+| **Alaska Communications Systems** | [Sr. Client Account Manager](https://jobseveryhour.com/job/sr-client-account-manager-alaska-communications-systems/) | Anchorage, Alaska; Hillsboro; Denver, Colorado | $83K - $109K | 2026-11-24 |
+| **Animal Trust** | [Veterinary Surgeon - Medical Bias](https://jobseveryhour.com/job/veterinary-surgeon-medical-bias-animal-trust-2/) | Warrington, Cheshire, United Kingdom | — | 2026-11-24 |
 | **PitchBook Data** | [AI Enablement Specialist](https://jobseveryhour.com/job/ai-enablement-specialist-pitchbook-data/) | Seattle, Washington, United States | $93K - $110K | 2026-11-23 |
 | **Clera** | [Account Executive](https://jobseveryhour.com/job/account-executive-clera-12/) | remote | $100K - $180K | 2026-11-23 |
 | **Ennoble Care** | [Hospice Per Diem RN (Wichita, KS)](https://jobseveryhour.com/job/hospice-per-diem-rn-wichita-ks-ennoble-care/) | Wichita, KS | — | 2026-11-23 |
 | **Ennoble Care** | [Per Diem Certified Nursing Assistant (Wichita, KS)](https://jobseveryhour.com/job/per-diem-certified-nursing-assistant-wichita-ks-ennoble-care/) | Wichita, KS | — | 2026-11-23 |
+| **Philadelphia Phillies - Baseball Operations** | [Minor League Medical Coordinator](https://jobseveryhour.com/job/minor-league-medical-coordinator-philadelphia-phillies-baseball-operations/) | Clearwater, FL | — | 2026-11-23 |
 | **Osmo** | [Director of FP&A](https://jobseveryhour.com/job/director-of-fp-a-osmo/) | Elizabeth, NJ | $175K - $215K | 2026-11-23 |
 | **Anthropic** | [Applied AI Architect, Technology Partnerships](https://jobseveryhour.com/job/applied-ai-architect-technology-partnerships-anthropic/) | San Francisco, CA / New York City, NY | $240K - $315K | 2026-11-23 |
 | **Ennoble Care** | [Patient Care Coordinator (Gulf Breeze, FL)](https://jobseveryhour.com/job/patient-care-coordinator-gulf-breeze-fl-ennoble-care/) | Gulf Breeze, FL | — | 2026-11-23 |
@@ -94,11 +152,14 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Ennoble Care** | [$3000 Sign on Bonus - Nurse Practitioner/Physician Assistant (Philadelphia County)](https://jobseveryhour.com/job/3000-sign-on-bonus-nurse-practitioner-physician-assistant-ph-ennoble-care-2/) | Philadelphia, PA | — | 2026-11-23 |
 | **Kodiak** | [Class A CDL Driver](https://jobseveryhour.com/job/class-a-cdl-driver-kodiak-3/) | Lancaster, TX | — | 2026-11-23 |
 | **Anthropic** | [Software Engineer, Model-to-Product Behavior Engineering](https://jobseveryhour.com/job/software-engineer-model-to-product-behavior-engineering-anthropic/) | San Francisco, CA | $320K - $485K | 2026-11-23 |
+| **Aikido Security** | [People Operations Specialist](https://jobseveryhour.com/job/people-operations-specialist-aikido-security/) | Ghent, Oost-Vlaanderen, Belgium | — | 2026-11-23 |
 | **Flexport** | [Software Engineer II: Autonomous Supply Chains](https://jobseveryhour.com/job/software-engineer-ii-autonomous-supply-chains-flexport/) | Amsterdam, Netherlands | — | 2026-11-23 |
+| **Wheely** | [Senior Accounts Payable Accountant](https://jobseveryhour.com/job/senior-accounts-payable-accountant-wheely-3/) | Λευκωσία, Nicosia, Cyprus | — | 2026-11-23 |
 | **Affirm** | [Senior Software Engineer, Back-end, (Fraud)](https://jobseveryhour.com/job/senior-software-engineer-back-end-fraud-affirm-4/) | Remote Spain | €86K - €122K | 2026-11-23 |
 | **n8n** | [Senior Customer Success Manager - German Speaking (Remote)](https://jobseveryhour.com/job/senior-customer-success-manager-german-speaking-remote-n8n-2/) | Germany · Remote | — | 2026-11-23 |
 | **n8n** | [Head of Partnerships - AMER & LATAM](https://jobseveryhour.com/job/manager-partnerships-amer-latam-n8n/) | Massachusetts, United States · Remote | — | 2026-11-23 |
 | **n8n** | [Head of Partnerships - EMEA & APAC](https://jobseveryhour.com/job/manager-partnerships-emea-apac-n8n/) | Germany · Remote | — | 2026-11-23 |
+| **Urban Science Applications** | [Analyst](https://jobseveryhour.com/job/analyst-urban-science-applications-4/) | Long Beach, CA, US | $70K - $81K | 2026-11-23 |
 | **Exa** | [Corporate Accounting Manager](https://jobseveryhour.com/job/corporate-accounting-manager-exa/) | San Francisco, California | $175K - $235K | 2026-11-23 |
 | **Clera** | [AI Builder, Forward Deployed Engineering, Research and Product](https://jobseveryhour.com/job/ai-builder-forward-deployed-engineering-research-and-product-clera/) | New York · Remote | $140K - $300K | 2026-11-23 |
 | **Braven** | [Associate Director, Technical Project Management](https://jobseveryhour.com/job/associate-director-technical-project-management-braven/) | Newark, New Jersey, United States | $87K - $94K | 2026-11-23 |
@@ -154,17 +215,11 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Boeing Subsidiaries** | [APG Technician - General Mechanic](https://jobseveryhour.com/job/apg-technician-general-mechanic-boeing-subsidiaries/) | QAT - Al Udeid AB, Qatar | — | 2026-11-23 |
 | **Centene** | [Director, Finance and Performance Management](https://jobseveryhour.com/job/director-finance-and-performance-management-centene/) | Remote-MO | $135K - $249K | 2026-11-23 |
 | **Centene** | [Contract Negotiator IV](https://jobseveryhour.com/job/contract-negotiator-iv-centene/) | Remote-IL | $88K - $158K | 2026-11-23 |
-| **Centene** | [Provider Data Management Specialist I](https://jobseveryhour.com/job/provider-data-management-specialist-i-centene-2/) | Remote-FL | — | 2026-11-23 |
 | **Centene** | [Senior Manager, Provider Network Management Operations](https://jobseveryhour.com/job/senior-manager-provider-network-management-operations-centene/) | Remote-MO | $108K - $199K | 2026-11-23 |
 | **Centene** | [Manager, Intake & Insurance Verification](https://jobseveryhour.com/job/manager-intake-insurance-verification-centene/) | Remote-FL | $70K - $126K | 2026-11-23 |
 | **Centene** | [LTSS Service Care Coordinator](https://jobseveryhour.com/job/ltss-service-care-coordinator-centene-30/) | Remote-IL | — | 2026-11-23 |
-| **Centene** | [Business Analyst Graduate Summer Intern](https://jobseveryhour.com/job/business-analyst-graduate-summer-intern-centene/) | Remote-MO | — | 2026-11-23 |
 | **Centene** | [Facilities Coordinator II](https://jobseveryhour.com/job/facilities-coordinator-ii-centene/) | Chesterfield - 111 Chesterfield Industrial Blvd, Suite 115 (11152) | — | 2026-11-23 |
-| **Centene** | [Director, IT Portfolio Management](https://jobseveryhour.com/job/director-it-portfolio-management-centene/) | Remote-MO | $146K - $270K | 2026-11-23 |
-| **Centene** | [Provider Performance Specialist II](https://jobseveryhour.com/job/provider-performance-specialist-ii-centene/) | Remote-NY | $56K - $101K | 2026-11-23 |
-| **Centene** | [Data Analyst II Healthcare Analytics, Medical Economics](https://jobseveryhour.com/job/data-analyst-ii-healthcare-analytics-medical-economics-centene/) | Remote-MO | $56K - $101K | 2026-11-23 |
 | **Centene** | [Manager, Medicare Member Retention](https://jobseveryhour.com/job/manager-medicare-member-retention-centene/) | Remote-FL; Remote-NY | $88K - $158K | 2026-11-23 |
-| **Centene** | [Manager, Claims Reimbursement Analytics](https://jobseveryhour.com/job/manager-claims-reimbursement-analytics-centene/) | Remote-MO; Remote-MI; Remote-FL | $108K - $199K | 2026-11-23 |
 | **Centene** | [Care Manager](https://jobseveryhour.com/job/care-manager-centene-7/) | Remote-IL | — | 2026-11-23 |
 | **Centene** | [Enrollment Coordinator](https://jobseveryhour.com/job/enrollment-coordinator-centene/) | Remote-WA State | — | 2026-11-23 |
 | **Centene** | [Executive Assistant](https://jobseveryhour.com/job/executive-assistant-centene/) | Long Island City - 25-01 Jackson Ave (10936) | — | 2026-11-23 |
@@ -195,6 +250,30 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **University of Arkansas for Medical Sciences** | [Senior Clinical Billing Specialist](https://jobseveryhour.com/job/senior-clinical-billing-specialist-university-of-arkansas-for-medical-sciences-3/) | Little Rock | — | 2026-11-23 |
 | **University of Arkansas for Medical Sciences** | [Department Chair, Department of Epidemiology (COPH)](https://jobseveryhour.com/job/department-chair-department-of-epidemiology-coph-university-of-arkansas-for-medical-sciences/) | UAMS; Little Rock | — | 2026-11-23 |
 | **AIR Control Concepts** | [Sales Engineer - Mechanical HVAC](https://jobseveryhour.com/job/sales-engineer-mechanical-hvac-air-control-concepts/) | Columbus, OH | $100K - $200K | 2026-11-23 |
+| **Northeastern University** | [Research Scientist](https://jobseveryhour.com/job/research-scientist-northeastern-university-3/) | Boston, MA (Main Campus) | $88K - $124K | 2026-11-23 |
+| **Boeing** | [APG Technician - General Mechanic](https://jobseveryhour.com/job/apg-technician-general-mechanic-boeing/) | QAT - Al Udeid AB, Qatar | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Engineering Technician](https://jobseveryhour.com/job/engineering-technician-flex-flextronics-3/) | USA, TX, Austin | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Tooling Manufacturing Technician](https://jobseveryhour.com/job/tooling-manufacturing-technician-flex-flextronics/) | USA, IL, Libertyville | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Technical Program Manager](https://jobseveryhour.com/job/technical-program-manager-flex-flextronics-2/) | USA, TX, Austin | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Supplier Quality Engineer](https://jobseveryhour.com/job/supplier-quality-engineer-flex-flextronics-4/) | USA, TX, Austin | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Industrial Engineer](https://jobseveryhour.com/job/industrial-engineer-flex-flextronics-2/) | USA, MI, Coopersville | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Senior Manager - Digital Transformation](https://jobseveryhour.com/job/senior-manager-digital-transformation-flex-flextronics/) | USA, IL, Buffalo Grove | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Operation Supervisor 3rd Shift](https://jobseveryhour.com/job/operation-supervisor-3rd-shift-flex-flextronics/) | USA, TX, Austin | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Program Management Assistant](https://jobseveryhour.com/job/program-management-assistant-flex-flextronics/) | USA, TX, Austin | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Automation Technician (Night Shift)](https://jobseveryhour.com/job/automation-technician-night-shift-flex-flextronics/) | USA, IL, Buffalo Grove | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Quality Supervisor](https://jobseveryhour.com/job/quality-supervisor-flex-flextronics-2/) | USA, IL, Buffalo Grove | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Program Manager](https://jobseveryhour.com/job/program-manager-flex-flextronics-5/) | USA, IL, Buffalo Grove | — | 2026-11-23 |
+| **Flex (Flextronics)** | [Quality Supervisor](https://jobseveryhour.com/job/quality-supervisor-flex-flextronics-3/) | USA, IL, Buffalo Grove | — | 2026-11-23 |
+| **ICF** | [Senior Security Engineer - Remote](https://jobseveryhour.com/job/senior-security-engineer-remote-icf/) | Reston, VA | $99K - $168K | 2026-11-23 |
+| **ICF** | [Senior Enterprise Systems Developer, DevOps](https://jobseveryhour.com/job/senior-enterprise-systems-developer-devops-icf/) | Reston, VA | $99K - $168K | 2026-11-23 |
+| **ICF** | [Lead Energy Engineer](https://jobseveryhour.com/job/lead-energy-engineer-icf-4/) | Newark, NJ | $145K - $158K | 2026-11-23 |
+| **ICF** | [2027 Summer Intern, Disaster Management (Baton Rouge, LA; Tallahassee, FL; Remote)](https://jobseveryhour.com/job/2027-summer-intern-disaster-management-baton-rouge-la-tallah-icf/) | Nationwide Remote Office (US99) | $35K - $59K | 2026-11-23 |
+| **ICF** | [Grants Management Financial Specialist - AI/AN Victim Services Program (REMOTE ROLE)](https://jobseveryhour.com/job/grants-management-financial-specialist-ai-an-victim-services-icf/) | Anchorage, AK; Phoenix, AZ; Oklahoma City, OK | $67K - $115K | 2026-11-23 |
+| **ICF** | [Environmental Planner (Entry Level, Texas Remote)](https://jobseveryhour.com/job/environmental-planner-entry-level-texas-remote-icf/) | Austin, TX | $51K - $86K | 2026-11-23 |
+| **ICF** | [Head Start Grantee Specialist - Service Area X - REMOTE](https://jobseveryhour.com/job/head-start-grantee-specialist-service-area-x-remote-icf/) | Reston, VA | $67K - $115K | 2026-11-23 |
+| **ICF** | [Senior Data Scientist](https://jobseveryhour.com/job/senior-data-scientist-icf/) | San Francisco, CA | $144K - $244K | 2026-11-23 |
+| **athenahealth** | [Associate Application Security Engineer](https://jobseveryhour.com/job/associate-application-security-engineer-athenahealth/) | Remote - MA; Remote USA | $96K - $162K | 2026-11-23 |
+| **Animal Trust** | [A&E / Inpatient Veterinary Surgeon](https://jobseveryhour.com/job/a-e-inpatient-veterinary-surgeon-animal-trust-3/) | Warrington, Cheshire, United Kingdom | £72K | 2026-11-23 |
 | **Exa** | [Field Operations Manager, Americas](https://jobseveryhour.com/job/field-operations-manager-americas-exa/) | San Francisco / New York | $170K - $250K | 2026-11-22 |
 | **Exa** | [Executive Communications Lead](https://jobseveryhour.com/job/executive-communications-lead-exa/) | San Francisco, California | $170K - $225K | 2026-11-22 |
 | **Anthropic** | [Program Manager, Cloud Partners](https://jobseveryhour.com/job/program-manager-cloud-partners-anthropic/) | San Francisco, CA / New York City, NY | $255K - $320K | 2026-11-22 |
@@ -231,85 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **The Care** | [Full Time Registered Nurse (RN)](https://jobseveryhour.com/job/full-time-registered-nurse-rn-the-care/) | Qualicum Beach, BC, Canada | — |  |
 | **Justlife** | [Telesales Executive - Outbound](https://jobseveryhour.com/job/telesales-executive-outbound-justlife/) | Dubai, United Arab Emirates | — |  |
 | **Whatfix** | [Enterprise Account Manager - San Jose](https://jobseveryhour.com/job/enterprise-account-manager-san-jose-whatfix/) | 2033 Gateway Place, Suite 120, San Jose, CA | — |  |
-| **Whatfix** | [Account Executive - Seek (Whatfix Labs)](https://jobseveryhour.com/job/account-executive-seek-whatfix-labs-whatfix/) | San Jose, California, United States | $250K - $300K |  |
-| **Whatfix** | [Enterprise Account Executive](https://jobseveryhour.com/job/enterprise-account-executive-whatfix/) | San Jose, California, United States | $200K - $300K |  |
-| **Whatfix** | [Enterprise Account Executive / Account Management](https://jobseveryhour.com/job/enterprise-account-executive-account-management-whatfix/) | San Jose, California, United States | — |  |
-| **Local Eclectic** | [PT Jewelry Sales Associate (Commission)](https://jobseveryhour.com/job/pt-jewelry-sales-associate-commission-local-eclectic/) | Chicago, IL | — |  |
-| **Hello Innovation** | [Chief Technology Officer (CTO)](https://jobseveryhour.com/job/chief-technology-officer-cto-hello-innovation/) | Detroit, MI | — |  |
-| **Hello Innovation** | [Director of IT (Information Technology)](https://jobseveryhour.com/job/director-of-it-information-technology-hello-innovation/) | Detroit, MI | — |  |
-| **Merck (MSD)** | [Associate Specialist, Manufacturing Automation](https://jobseveryhour.com/job/associate-specialist-manufacturing-automation-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-21 |
-| **Merck (MSD)** | [Specialist , Manufacturing Automation](https://jobseveryhour.com/job/specialist-manufacturing-automation-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-21 |
-| **FST Technical Services** | [Construction Coordinator](https://jobseveryhour.com/job/construction-coordinator-fst-technical-services/) | Rio Rancho, NM | — |  |
-| **FST Technical Services** | [Commissioning Project Engineer](https://jobseveryhour.com/job/commissioning-project-engineer-fst-technical-services-4/) | Hartford, CT | $90K - $120K |  |
-| **FST Technical Services** | [Commissioning Project Engineer - Data Center](https://jobseveryhour.com/job/commissioning-project-engineer-data-center-fst-technical-services/) | Atlanta, GA | $100K - $130K |  |
-| **FST Technical Services** | [Commissioning Project Engineer - Data Center](https://jobseveryhour.com/job/commissioning-project-engineer-data-center-fst-technical-services-2/) | Atlanta, GA | $100K - $130K |  |
-| **FST Technical Services** | [Senior Commissioning Engineer](https://jobseveryhour.com/job/senior-commissioning-engineer-fst-technical-services/) | New York City, NY | $120K - $140K |  |
-| **FST Technical Services** | [Senior Commissioning Engineer](https://jobseveryhour.com/job/senior-commissioning-engineer-fst-technical-services-3/) | Arlington, VA | $120K - $140K |  |
-| **FST Technical Services** | [Senior Controls Engineer](https://jobseveryhour.com/job/senior-controls-engineer-fst-technical-services/) | Ann Arbor, MI | $120K - $150K |  |
-| **FST Technical Services** | [Senior Project Engineer](https://jobseveryhour.com/job/senior-project-engineer-fst-technical-services/) | New York City, NY | $110K - $140K |  |
-| **FST Technical Services** | [Tridium Niagara Building Automation Specialist](https://jobseveryhour.com/job/tridium-niagara-building-automation-specialist-fst-technical-services/) | Ann Arbor, MI | $100K - $140K |  |
-| **FST Technical Services** | [Mechanical Technician](https://jobseveryhour.com/job/mechanical-technician-fst-technical-services/) | Santa Clara, CA | — |  |
-| **FST Technical Services** | [Mechanical Technician - night shift](https://jobseveryhour.com/job/mechanical-technician-night-shift-fst-technical-services/) | Santa Clara, CA | — |  |
-| **FST Technical Services** | [NCCO Trainer](https://jobseveryhour.com/job/ncco-trainer-fst-technical-services/) | Hillsboro, OR | — |  |
-| **Nutrition Kitchen** | [Data Analyst](https://jobseveryhour.com/job/data-analyst-nutrition-kitchen/) | Hong Kong | — |  |
-| **Nutrition Kitchen** | [Digital Marketing Analyst](https://jobseveryhour.com/job/digital-marketing-analyst-nutrition-kitchen/) | Hong Kong | — |  |
-| **Nutrition Kitchen** | [E-Commerce Operations Associate (Graduate)](https://jobseveryhour.com/job/e-commerce-operations-associate-graduate-nutrition-kitchen/) | Hong Kong | — |  |
-| **Nutrition Kitchen** | [Growth Analyst](https://jobseveryhour.com/job/growth-analyst-nutrition-kitchen/) | Hong Kong | — |  |
-| **Nutrition Kitchen** | [Growth Associate](https://jobseveryhour.com/job/growth-associate-nutrition-kitchen/) | Hong Kong | — |  |
-| **Merck (MSD)** | [Product Line Tech Lead, Veeva Events](https://jobseveryhour.com/job/product-line-tech-lead-veeva-events-merck-msd/) | CZE - Central Bohemian - Prague (Five) | — | 2026-11-21 |
-| **GDIT** | [Software Developer Principal](https://jobseveryhour.com/job/software-developer-principal-gdit/) | Any Location / Remote | $122K - $166K | 2026-11-21 |
-| **Constructive Bio** | [Head of People](https://jobseveryhour.com/job/head-of-people-constructive-bio/) | Cambridge, Cambridgeshire, United Kingdom | — | 2026-11-21 |
-| **Clera** | [Technical Program Manager](https://jobseveryhour.com/job/technical-program-manager-clera-3/) | United States | $130K - $225K | 2026-11-20 |
-| **GiveWell** | [Manager, IT and Technology Operations](https://jobseveryhour.com/job/manager-it-and-technology-operations-givewell/) | United States (Remote) | — | 2026-11-20 |
-| **Gray Swan AI** | [Strategic Partnership Manager - Frontier Labs](https://jobseveryhour.com/job/strategic-partnership-manager-frontier-labs-gray-swan-ai/) | Remote U.S. or Pittsburgh, PA | $185K - $270K | 2026-11-20 |
-| **Gray Swan AI** | [Strategic Account Executive – Frontier Labs](https://jobseveryhour.com/job/strategic-account-executive-frontier-labs-gray-swan-ai/) | Remote (U.S. Only) | $157K - $192K | 2026-11-20 |
-| **Kodiak** | [Autonomous Fleet Specialist](https://jobseveryhour.com/job/autonomous-fleet-specialist-kodiak/) | Lancaster, TX | $70K - $76K | 2026-11-20 |
-| **ABACUS** | [Technician, Site Services (Healthcare)](https://jobseveryhour.com/job/technician-site-services-healthcare-abacus/) | Sacramento, California, United States | $55K - $62K | 2026-11-20 |
-| **Siepe** | [Accounts Receivable Specialist](https://jobseveryhour.com/job/accounts-receivable-specialist-siepe/) | Dallas, TX | — | 2026-11-20 |
-| **SRF Consulting** | [Entry Level Traffic Engineer](https://jobseveryhour.com/job/entry-level-traffic-engineer-srf-consulting/) | Madison, WI, USA | — | 2026-11-20 |
-| **Parallel** | [Member of Technical Staff, Core Infrastructure](https://jobseveryhour.com/job/member-of-technical-staff-core-infrastructure-parallel/) | San Francisco | $150K - $300K | 2026-11-20 |
-| **Anthropic** | [Commercial Counsel, GTM Strategic Alliances](https://jobseveryhour.com/job/commercial-counsel-gtm-strategic-alliances-anthropic/) | San Francisco, CA / New York City, NY / Seattle, WA | $335K - $385K | 2026-11-20 |
-| **Workstreet** | [Head of IT, Automation and Infrastructure](https://jobseveryhour.com/job/head-of-it-automation-and-infrastructure-workstreet/) | Remote (United States) | — | 2026-11-20 |
-| **Verkada** | [Engineering Manager, Mobile Platform](https://jobseveryhour.com/job/engineering-manager-mobile-platform-verkada/) | San Mateo, CA United States | $200K - $285K | 2026-11-20 |
-| **Reframesystems** | [People Operations Manager](https://jobseveryhour.com/job/people-operations-manager-reframesystems/) | Billerica, MA | $100K - $130K | 2026-11-20 |
-| **Hammerhead Ai** | [Data Scientist](https://jobseveryhour.com/job/data-scientist-hammerhead-ai/) | Redwood City | $150K - $180K | 2026-11-20 |
-| **Addepar** | [Staff Product Designer, Advisor Experience](https://jobseveryhour.com/job/staff-product-designer-advisor-experience-addepar/) | New York, NY | $172K - $215K | 2026-11-20 |
-| **Anthropic** | [Staff+ Software Engineer, Capacity Engineering](https://jobseveryhour.com/job/staff-software-engineer-capacity-engineering-anthropic-2/) | San Francisco, CA / New York City, NY / Seattle, WA | $320K - $485K | 2026-11-20 |
-| **Anthropic** | [Principal Engineer Capacity/Compute](https://jobseveryhour.com/job/principal-engineer-capacity-compute-anthropic-5/) | Seattle, WA | $320K - $485K | 2026-11-20 |
-| **Anthropic** | [Principal Engineer Capacity/Compute](https://jobseveryhour.com/job/principal-engineer-capacity-compute-anthropic-4/) | New York City, NY | $320K - $485K | 2026-11-20 |
-| **Anthropic** | [Principal Engineer Capacity/Compute](https://jobseveryhour.com/job/principal-engineer-capacity-compute-anthropic-6/) | San Francisco, CA | $320K - $485K | 2026-11-20 |
-| **Anthropic** | [GTM Strategy & Operations Business Partner](https://jobseveryhour.com/job/gtm-strategy-operations-business-partner-anthropic/) | San Francisco, CA / New York City, NY / Washington, DC | $270K - $310K | 2026-11-20 |
-| **Clera** | [Full-Stack Software Engineer, Reinforcement Learning](https://jobseveryhour.com/job/full-stack-software-engineer-reinforcement-learning-clera-4/) | United States | $130K - $225K | 2026-11-20 |
-| **Clera** | [Founding Forward Deployed Engineer](https://jobseveryhour.com/job/founding-forward-deployed-engineer-clera-5/) | United States | $130K - $215K | 2026-11-20 |
-| **Clera** | [Core Systems Engineer](https://jobseveryhour.com/job/core-systems-engineer-clera-2/) | Bucharest | $100K - $250K | 2026-11-20 |
-| **Clera** | [Platform Engineer (Kubernetes)](https://jobseveryhour.com/job/platform-engineer-kubernetes-clera-3/) | San Francisco | $180K - $210K | 2026-11-20 |
-| **Clera** | [Product Engineer (Consumer, Design Heavy)](https://jobseveryhour.com/job/product-engineer-consumer-design-heavy-clera/) | Palo Alto · Remote | $200K - $350K | 2026-11-20 |
-| **Clera** | [Machine Learning Engineer, Mid-Level](https://jobseveryhour.com/job/machine-learning-engineer-mid-level-clera/) | San Francisco | $140K | 2026-11-20 |
-| **Clera** | [Founding Infrastructure Engineer](https://jobseveryhour.com/job/founding-infrastructure-engineer-clera/) | San Francisco | $175K - $300K | 2026-11-20 |
-| **Clera** | [Member of Commercial Staff](https://jobseveryhour.com/job/member-of-commercial-staff-clera-4/) | Munich | €70K - €100K | 2026-11-20 |
-| **Clera** | [Founding Engineer](https://jobseveryhour.com/job/founding-engineer-clera-27/) | Munich | €70K - €100K | 2026-11-20 |
-| **Clera** | [Growth & Marketing Intern / New Grad](https://jobseveryhour.com/job/growth-marketing-intern-new-grad-clera-2/) | San Francisco | — | 2026-11-20 |
-| **Clera** | [LLM Data Researcher](https://jobseveryhour.com/job/llm-data-researcher-clera-2/) | Barcelona | — | 2026-11-20 |
-| **Clera** | [Senior Mobile Engineer](https://jobseveryhour.com/job/senior-mobile-engineer-clera-2/) | Bucharest | $100K - $120K | 2026-11-20 |
-| **Clera** | [Principal Robotic Controls Engineer](https://jobseveryhour.com/job/principal-robotic-controls-engineer-clera-2/) | Los Lunas | $250K - $315K | 2026-11-20 |
-| **Clera** | [Product Engineer](https://jobseveryhour.com/job/product-engineer-clera-15/) | San Francisco | $120K - $200K | 2026-11-20 |
-| **Anthropic** | [Research Engineer, Beneficial Deployments](https://jobseveryhour.com/job/research-engineer-beneficial-deployments-anthropic/) | San Francisco, CA | $500K - $850K | 2026-11-20 |
-| **Cresco Labs** | [Processing Agent - 2nd Shift](https://jobseveryhour.com/job/processing-agent-2nd-shift-cresco-labs/) | Yellow Springs, OH | — | 2026-11-20 |
-| **Cresco Labs** | [Cultivation Agent](https://jobseveryhour.com/job/cultivation-agent-cresco-labs-6/) | Yellow Springs, OH | — | 2026-11-20 |
-| **Cresco Labs** | [Cultivation Agent - Indoor Veg](https://jobseveryhour.com/job/cultivation-agent-indoor-veg-cresco-labs/) | Lincoln, IL | — | 2026-11-20 |
-| **n8n** | [Mid-Market Sales Manager US](https://jobseveryhour.com/job/mid-market-sales-manager-us-n8n/) | Massachusetts, United States · Remote | — | 2026-11-20 |
-| **ALLY Psychiatry Career Page** | [Medical Director Psychiatrist Job Opportunity – Nashville Area, TN, Inpatient Psychiatry Leadership, Visa Sponsorship](https://jobseveryhour.com/job/medical-director-psychiatrist-job-opportunity-nashville-area-ally-psychiatry-career-page/) | Columbia, TN, USA | $360K - $385K | 2026-11-18 |
-| **American Institutes for Research** | [Principal Researcher, CTE and Career Pathways](https://jobseveryhour.com/job/principal-researcher-cte-and-career-pathways-american-institutes-for-research/) | US-Remote / US-VA-Arlington / US-NC-Chapel Hill / US-IL-Chicago / US-CA-Sacramento / US-TX-Austin | $150K - $170K | 2026-11-20 |
-| **American Institutes for Research** | [Quantitative Researcher, Secondary and Postsecondary Pathways](https://jobseveryhour.com/job/quantitative-researcher-secondary-and-postsecondary-pathways-american-institutes-for-research/) | US-Remote | $87K - $110K | 2026-11-20 |
-| **Anthropic** | [Strategic Account Executive, Hedge Funds](https://jobseveryhour.com/job/strategic-account-executive-hedge-funds-anthropic/) | New York City, NY | $380K - $450K | 2026-11-20 |
-| **Agru America** | [Manufacturing Technician - 12 hour rotating Day shifts](https://jobseveryhour.com/job/manufacturing-technician-12-hour-rotating-day-shifts-agru-america/) | Fernley, NV, USA | — | 2026-09-10 |
-| **Agru America** | [Manufacturing Technician - 12 hour rotating Night shifts](https://jobseveryhour.com/job/manufacturing-technician-12-hour-rotating-night-shifts-agru-america/) | Fernley, NV, USA | — | 2026-09-10 |
-| **Agru America** | [Industrial Electrician - Fernley, NV](https://jobseveryhour.com/job/industrial-electrician-fernley-nv-agru-america/) | Fernley, NV, USA | — | 2026-09-10 |
-| **Agru America** | [Warehouse Associate - Fernley, NV - MUST HAVE FORKLIFT EXP](https://jobseveryhour.com/job/warehouse-associate-fernley-nv-must-have-forklift-exp-agru-america/) | Fernley, NV, USA | — | 2026-09-10 |
-| **Agru America** | [Shift Supervisor - Production - Night Shift](https://jobseveryhour.com/job/shift-supervisor-production-night-shift-agru-america/) | Fernley, NV, USA | — | 2026-09-10 |
-| **Ennoble Care** | [Hospice On-Call RN (Lancaster / York County, PA) - 7 On / 7 Off](https://jobseveryhour.com/job/hospice-on-call-rn-lancaster-york-county-pa-7-on-7-off-ennoble-care/) | Lancaster, PA | — | 2026-11-20 |
-| **ABACUS** | [Team Lead, Enterprise Service Desk](https://jobseveryhour.com/job/team-lead-enterprise-service-desk-abacus/) | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Fort Lauderdale, Florida, United States; Frisco, Texas, United States; Orlando, Florida, United States | — | 2026-11-20 |
-| **Butternut Box** | [Business Development Manager - Ambassadors & Affiliates (m/w/d)](https://jobseveryhour.com/job/business-development-manager-affiliate-programme-m-w-d-butternut-box/) | Berlin | — | 2026-11-20 |
 
 ## More
 
