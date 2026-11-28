@@ -2,7 +2,7 @@
 
 Open jobs whose posting says the employer sponsors work visas, read from employers' own career pages and checked every hour. Always confirm the visa type and country with the employer before you apply.
 
-**8,140 open right now · updated 2026-11-27.** The list below shows the 300 newest. Jobs come from
+**8,196 open right now · updated 2026-11-28.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/perks/visa-sponsorship/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Merck (MSD)** | [Senior Manager, ServiceNow Senior Developer - Operational Technology](https://jobseveryhour.com/job/senior-manager-servicenow-senior-developer-operational-techn-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-28 |
+| **n8n** | [Group Product Manager - AI Experience](https://jobseveryhour.com/job/group-product-manager-ai-experience-n8n/) | Germany · Remote | €124K - €197K | 2026-11-27 |
 | **ABACUS** | [Disaster Recovery Engineer](https://jobseveryhour.com/job/disaster-recovery-engineer-abacus/) | Chennai, Tamil Nadu, India | — | 2026-11-27 |
 | **Wayve** | [Software Engineer, Simulation](https://jobseveryhour.com/job/software-engineer-simulation-wayve-3/) | Sunnyvale, California USA | $209K - $310K | 2026-11-27 |
 | **Monday.com** | [Technical Support Engineer](https://jobseveryhour.com/job/technical-support-engineer-monday-com-3/) | Japan | — | 2026-11-27 |
@@ -31,9 +33,15 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Merck (MSD)** | [Financial Analyst Cost Accounting](https://jobseveryhour.com/job/financial-analyst-cost-accounting-merck-msd/) | NLD - North Holland - Haarlem | — | 2026-11-27 |
 | **Merck (MSD)** | [Senior Specialist , Data Science](https://jobseveryhour.com/job/senior-specialist-data-science-merck-msd/) | IND - Maharashtra - Pune (Wework) | — | 2026-11-27 |
 | **Merck (MSD)** | [Specialist, Software Engineering (FinOps)](https://jobseveryhour.com/job/specialist-software-engineering-finops-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-27 |
-| **Merck (MSD)** | [Specialist, SAP Data Analytics](https://jobseveryhour.com/job/specialist-sap-data-analytics-merck-msd/) | IND - Telangana - Hyderabad (Hitec City Raidurg) | — | 2026-11-27 |
 | **Boeing Subsidiaries** | [Supplier Quality Specialist (Supplier Quality Systems)](https://jobseveryhour.com/job/supplier-quality-specialist-supplier-quality-systems-boeing-subsidiaries-2/) | CHE - Emmen, Switzerland | — | 2026-11-27 |
 | **ICF** | [2027 Summer Intern, Human Capital and Learning (Remote from DC, MD or VA)](https://jobseveryhour.com/job/2027-summer-intern-human-capital-and-learning-remote-from-dc-icf/) | Richmond, VA; Maryland Remote Office (MD99); DC Remote Office (DC99) | $35K - $59K | 2026-11-27 |
+| **athenahealth** | [Senior IAM Engineer - IdentityIQ](https://jobseveryhour.com/job/senior-iam-engineer-identityiq-athenahealth/) | Remote USA | $119K - $203K | 2026-11-27 |
+| **Animal Trust** | [Veterinary Surgeon](https://jobseveryhour.com/job/veterinary-surgeon-animal-trust-12/) | Glasgow, Glasgow City, United Kingdom | £72K | 2026-11-27 |
+| **Merck (MSD)** | [Sr. Spclst, Regional Medical Information](https://jobseveryhour.com/job/sr-spclst-regional-medical-information-merck-msd/) | COL - Cundinamarca - Bogotá (Colpatria); COL - Colombia - Colombia | — | 2026-11-27 |
+| **Merck (MSD)** | [GenAI Solution Architect](https://jobseveryhour.com/job/genai-solution-architect-merck-msd/) | CZE - Central Bohemian - Prague (Five) | — | 2026-11-27 |
+| **Merck (MSD)** | [Junior Data Scientist](https://jobseveryhour.com/job/junior-data-scientist-merck-msd/) | CZE - Central Bohemian - Prague (Five) | — | 2026-11-27 |
+| **Astroscale** | [Senior Mechanical Design Engineer](https://jobseveryhour.com/job/senior-mechanical-design-engineer-astroscale/) | Oxfordshire UK, Didcot, United Kingdom | £65K - £80K | 2026-11-27 |
+| **Astroscale** | [IT Operations & Delivery Lead (FTC - 12 months)](https://jobseveryhour.com/job/it-operations-delivery-lead-ftc-12-months-astroscale/) | Oxfordshire UK, Didcot, United Kingdom | £70K - £90K | 2026-11-27 |
 | **n8n** | [Partner Manager LATAM](https://jobseveryhour.com/job/partner-manager-latam-n8n/) | Massachusetts, United States · Remote | $225K - $302K | 2026-11-26 |
 | **n8n** | [Partner Manager MEA & APAC](https://jobseveryhour.com/job/partner-manager-mea-apac-n8n/) | Germany · Remote | — | 2026-11-26 |
 | **n8n** | [Partner Manager EMEA North](https://jobseveryhour.com/job/partner-manager-emea-north-n8n/) | Netherlands · Remote | — | 2026-11-26 |
@@ -68,6 +76,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Merck (MSD)** | [Specialist, Software Engineering](https://jobseveryhour.com/job/specialist-software-engineering-merck-msd-2/) | IND - Telangana - Hyderabad (Hitec City Raidurg); IND - Maharashtra - Pune (Wework) | — | 2026-11-26 |
 | **Animal Trust** | [A&E / Inpatient Veterinary Surgeon](https://jobseveryhour.com/job/a-e-inpatient-veterinary-surgeon-animal-trust-4/) | Ellesmere Port, Cheshire, United Kingdom | — | 2026-11-26 |
 | **Northeastern University London** | [Postdoctoral Research Associate in Reliable Neuromorphic, Classical, and Quantum AI](https://jobseveryhour.com/job/postdoctoral-research-associate-in-reliable-neuromorphic-cla-northeastern-university-london/) | London, UK | £44K - £48K | 2026-11-26 |
+| **Astroscale** | [Technical Buyer](https://jobseveryhour.com/job/technical-buyer-astroscale/) | Oxfordshire UK, Didcot, United Kingdom | — | 2026-11-26 |
+| **Astroscale** | [Trade Compliance Manager](https://jobseveryhour.com/job/trade-compliance-manager-astroscale/) | Oxfordshire UK, Didcot, United Kingdom | £65K - £95K | 2026-11-26 |
 | **ABACUS** | [Senior Analyst, Enterprise Service Desk](https://jobseveryhour.com/job/senior-analyst-enterprise-service-desk-abacus/) | Frisco, Texas, United States | — | 2026-11-25 |
 | **Sumo Logic** | [Partner Marketing Program Manager](https://jobseveryhour.com/job/partner-marketing-program-manager-sumo-logic/) | Remote USA | $130K | 2026-11-25 |
 | **Parallel** | [Early Career Software Engineer, Developer Experience](https://jobseveryhour.com/job/early-career-software-engineer-developer-experience-parallel/) | San Francisco | $150K - $300K | 2026-11-25 |
@@ -98,7 +108,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Reflectionai** | [Account Executive, U.S. Government](https://jobseveryhour.com/job/account-executive-u-s-government-reflectionai/) | Washington, D.C. | — | 2026-11-25 |
 | **Wheely** | [Training & Service Quality Manager](https://jobseveryhour.com/job/training-service-quality-manager-wheely/) | New York, New York, United States | $90K - $110K | 2026-11-25 |
 | **Monzo** | [Staff Backend Engineer](https://jobseveryhour.com/job/staff-backend-engineer-monzo-3/) | London | — | 2026-11-25 |
-| **Monzo** | [Senior Backend Engineer](https://jobseveryhour.com/job/senior-backend-engineer-monzo-2/) | London | — | 2026-11-25 |
+| **Monzo** | [Senior Backend Engineer](https://jobseveryhour.com/job/senior-backend-engineer-monzo-2/) | Cardiff, London or Remote (UK) | — | 2026-11-25 |
 | **n8n** | [Mid-Market Sales Leader EMEA (Remote)](https://jobseveryhour.com/job/mid-market-sales-leader-emea-remote-n8n/) | United Kingdom · Remote | — | 2026-11-25 |
 | **Appier** | [Technical Program Manager, AdCloud AI Bidding (Mandarin Speaking) – Tokyo, Japan](https://jobseveryhour.com/job/technical-program-manager-adcloud-ai-bidding-mandarin-speaki-appier/) | Tokyo, Japan | — | 2026-11-25 |
 | **University of Massachusetts Medical School** | [Psychiatric Mental Health Nurse Practitioner (PMHNP) -Adult WRCH](https://jobseveryhour.com/job/psychiatric-mental-health-nurse-practitioner-pmhnp-adult-wrc-university-of-massachusetts-medical-school/) | Worcester, MA, US | — | 2026-11-25 |
@@ -300,16 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Parallel** | [GTM, AI-Native](https://jobseveryhour.com/job/gtm-ai-native-parallel/) | San Francisco or Palo Alto | $100K - $150K | 2026-11-24 |
 | **University of Arkansas System** | [Patient Care Technician (PCT) - ICU, Medical/Surgical, Oncology & Women's Health](https://jobseveryhour.com/job/patient-care-technician-pct-icu-medical-surgical-oncology-wo-university-of-arkansas-system/) | Little Rock | $16 - $18 an hour | 2026-11-24 |
 | **ICF** | [Senior Transportation Specialist (Syracuse, New York)](https://jobseveryhour.com/job/senior-transportation-specialist-icf/) | Syracuse, NY | $74K - $126K | 2026-11-24 |
-| **University of Arkansas for Medical Sciences** | [Patient Care Technician (PCT) - ICU, Medical/Surgical, Oncology & Women's Health](https://jobseveryhour.com/job/patient-care-technician-pct-icu-medical-surgical-oncology-wo-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-24 |
-| **University of Arkansas for Medical Sciences** | [Administrative Coordinator (UAMS Health Benton/Bryant)](https://jobseveryhour.com/job/administrative-coordinator-uams-health-benton-bryant-university-of-arkansas-for-medical-sciences/) | UAMS Health Benton-Bryant; Benton | — | 2026-11-24 |
-| **University of Arkansas for Medical Sciences** | [RN - Transplant Specialty Surgery](https://jobseveryhour.com/job/rn-transplant-specialty-surgery-university-of-arkansas-for-medical-sciences/) | Little Rock | — | 2026-11-24 |
-| **University of Arkansas for Medical Sciences** | [RN - Medical Oncology Clinic](https://jobseveryhour.com/job/rn-medical-oncology-clinic-university-of-arkansas-for-medical-sciences-2/) | Little Rock | — | 2026-11-24 |
-| **University of Arkansas System** | [Administrative Coordinator (UAMS Health Benton/Bryant)](https://jobseveryhour.com/job/administrative-coordinator-uams-health-benton-bryant-university-of-arkansas-system/) | UAMS Health Benton-Bryant; Benton | — | 2026-11-24 |
-| **Jets.com** | [Financial Controller](https://jobseveryhour.com/job/financial-controller-jets-com/) | Staten Island, NY | — |  |
-| **University of Arkansas for Medical Sciences** | [RN - Main OR](https://jobseveryhour.com/job/rn-main-or-university-of-arkansas-for-medical-sciences-3/) | Little Rock | — | 2026-11-24 |
-| **University of Arkansas for Medical Sciences** | [Physician Assistant](https://jobseveryhour.com/job/physician-assistant-university-of-arkansas-for-medical-sciences/) | Benton | — | 2026-11-24 |
-| **Justlife** | [Field Sales Executive – Speciality Services](https://jobseveryhour.com/job/field-sales-executive-speciality-services-justlife/) | Dubai, United Arab Emirates | — | 2026-11-24 |
-| **AIR Control Concepts** | [Traveling Chiller Technician](https://jobseveryhour.com/job/traveling-chiller-technician-air-control-concepts-4/) | (Multiple states) | $40 - $60 an hour | 2026-11-24 |
 
 ## More
 
